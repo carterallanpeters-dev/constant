@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:40:59+00:00",
+  "updated": "2026-11-05T21:40:54+00:00",
   "entries": [
     {
       "session": "close",
@@ -192,6 +192,73 @@
       "watch_next": "Whether SMH holds near 455 into the close and whether the VIX stays above 25; any policy statements on data-center regulation; follow-through in AI-infrastructure names such as CoreWeave. No earnings or data release dates were verified in this run.",
       "desk_call": null,
       "at": "2026-11-05T18:40:59+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-05 21:40 UTC (about 3:40pm Chicago, near the close; may be delayed up to 15 minutes) shows the chip selloff finishing as a broad rout. SMH is down 11.21% to 447.73, AMD down 17.26% to 404.40, TSM down 10.78%, AVGO down 10.43% and NVDA down 9.26% to 181.60. QQQ is down 6.49% to 647.05 and SPY down 4.41% to 733.00. The VIX is up 69.66% to 28.18, versus 26.92 at midday. CNBC reports the Nasdaq Composite fell about 5.5%, its worst day since April 2025 and into correction territory, with investors tying the move to fears that the midterm results will slow the AI data-center buildout.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 181.6,
+          "chg_pct": -9.26
+        },
+        {
+          "sym": "SPY",
+          "price": 733.0,
+          "chg_pct": -4.41
+        },
+        {
+          "sym": "QQQ",
+          "price": 647.05,
+          "chg_pct": -6.49
+        },
+        {
+          "sym": "SMH",
+          "price": 447.73,
+          "chg_pct": -11.21
+        },
+        {
+          "sym": "AMD",
+          "price": 404.4,
+          "chg_pct": -17.26
+        },
+        {
+          "sym": "AVGO",
+          "price": 291.53,
+          "chg_pct": -10.43
+        },
+        {
+          "sym": "TSM",
+          "price": 353.1,
+          "chg_pct": -10.78
+        },
+        {
+          "sym": "^VIX",
+          "price": 28.18,
+          "chg_pct": 69.66
+        }
+      ],
+      "movers": "AMD (-17.26%) and the VIX (+69.66%) moved most, with SMH (-11.21%), TSM (-10.78%) and AVGO (-10.43%) close behind. CNBC also reports Qualcomm fell about 9% on a weaker earnings outlook.",
+      "news": [
+        {
+          "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+        },
+        {
+          "title": "Semiconductor ETF Drops Over 3% as Chipmakers Extend Losses in US Futures",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day"
+        },
+        {
+          "title": "CNBC's experts on whether the AI trade is ending and what investors should do next",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds near 448 or gaps lower on Friday; whether the VIX stays above 28; any policy statements on data-center regulation. No earnings or data release dates were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-05T21:40:54+00:00"
     }
   ],
   "calls": [
@@ -205,8 +272,8 @@
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
       "outcome": "open",
-      "latest_price": 454.86,
-      "return_pct": -1.83,
+      "latest_price": 447.73,
+      "return_pct": -3.37,
       "lesson_saved": false
     }
   ],

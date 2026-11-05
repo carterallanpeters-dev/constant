@@ -1,35 +1,23 @@
-# Cloud Desk Journal: midday, 2026-11-05
+# Cloud desk: close session, 2026-11-05
 
-Data: Yahoo Finance via yfinance, retrieved 2026-11-05 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+**Summary:** Data from 21:40 UTC (about 3:40pm Chicago, may be delayed 15 min). The chip selloff ended as a broad rout: SMH -11.21% to 447.73, AMD -17.26%, TSM -10.78%, AVGO -10.43%, NVDA -9.26% to 181.60. QQQ -6.49%, SPY -4.41%. VIX +69.66% to 28.18. CNBC reports the Nasdaq Composite fell about 5.5%, its worst day since April 2025, tied to fears that the midterm results will slow AI data-center buildout.
 
-## Summary
-The chip selloff deepened since the open. SMH is down 9.83% to 454.70, AMD down 15.48% to 413.13, TSM down 9.50%, AVGO down 8.65% and NVDA down 8.55% to 183.02. QQQ is down 5.80% to 651.78 and SPY down 3.99% to 736.24. The VIX is up 62.07% to 26.92 (22.25 at the open). CNBC and Bloomberg attribute the move to fears that a Democratic sweep will bring tighter regulation of data-center buildout.
-
-## Watchlist
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 183.02 | -8.55 |
-| SPY | 736.24 | -3.99 |
-| QQQ | 651.78 | -5.80 |
-| SMH | 454.70 | -9.83 |
-| AMD | 413.13 | -15.48 |
-| AVGO | 297.34 | -8.65 |
-| TSM | 358.16 | -9.50 |
-| ^VIX | 26.92 | +62.07 |
+| NVDA | 181.60 | -9.26 |
+| SPY | 733.00 | -4.41 |
+| QQQ | 647.05 | -6.49 |
+| SMH | 447.73 | -11.21 |
+| AMD | 404.40 | -17.26 |
+| AVGO | 291.53 | -10.43 |
+| TSM | 353.10 | -10.78 |
+| ^VIX | 28.18 | +69.66 |
 
-## Movers
-AMD (-15.48%) and the VIX (+62.07%) moved most. CNBC's live blog reports the semiconductor ETF near an 11% drop, its worst day since March 2020, and the Nasdaq Composite in correction territory.
+**News**
+- [AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025](https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html) (CNBC)
+- [Semiconductor ETF Drops Over 3% as Chipmakers Extend Losses in US Futures](https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day) (Bloomberg)
+- [CNBC's experts on whether the AI trade is ending](https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html) (CNBC)
 
-## News
-- [Stock market today: Live updates](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html) (CNBC)
-- [Chipmaker Selloff Deepens on Fears of Tighter Regulation](https://www.bloomberg.com/news/videos/2026-11-05/chipmaker-selloff-deepens-on-fears-of-tighter-regulation-video) (Bloomberg)
-- [How the midterms could fuel the K-shaped AI trade](https://cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html) (CNBC)
+**Desk call:** none this run.
 
-## Watch next
-Whether SMH holds near 455 into the close and whether the VIX stays above 25; any policy statements on data-center regulation; follow-through in AI-infrastructure names. No earnings or data dates were verified.
-
-## Desk call
-None this run. The open neutral SMH call from the open session remains ungraded.
-
-## Lessons
-None (no calls needed lessons).
+**Lessons:** none due; the open SMH call (neutral, 5 days) is not yet gradable.
