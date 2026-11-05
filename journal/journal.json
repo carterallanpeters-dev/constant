@@ -1,6 +1,64 @@
 {
-  "updated": null,
-  "entries": [],
+  "updated": "2026-11-05T00:30:47+00:00",
+  "entries": [
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-05 00:30 UTC (about 6:30pm Chicago, after the US close; may be delayed up to 15 minutes) shows a broad-market gain with semiconductors lagging. SPY rose 1.65% to 766.81 and QQQ 0.97% to 691.95, while SMH fell 2.75% to 504.27. NVDA dropped 3.17% to 200.13, AVGO 2.0% and TSM 2.24%; AMD was the exception at +1.01% (488.78). The VIX fell 20.26% to 16.61, a sharp drop in implied volatility. I could not find a trusted article explaining this specific session, so the cause of the chip-versus-market divergence is not confirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 200.13,
+          "chg_pct": -3.17
+        },
+        {
+          "sym": "SPY",
+          "price": 766.81,
+          "chg_pct": 1.65
+        },
+        {
+          "sym": "QQQ",
+          "price": 691.95,
+          "chg_pct": 0.97
+        },
+        {
+          "sym": "SMH",
+          "price": 504.27,
+          "chg_pct": -2.75
+        },
+        {
+          "sym": "AMD",
+          "price": 488.78,
+          "chg_pct": 1.01
+        },
+        {
+          "sym": "AVGO",
+          "price": 325.48,
+          "chg_pct": -2.0
+        },
+        {
+          "sym": "TSM",
+          "price": 395.75,
+          "chg_pct": -2.24
+        },
+        {
+          "sym": "^VIX",
+          "price": 16.61,
+          "chg_pct": -20.26
+        }
+      ],
+      "movers": "The VIX (-20.26%) and NVDA (-3.17%) moved most. Semiconductors sold off as a group (SMH -2.75%, TSM -2.24%, AVGO -2.0%) even as SPY gained, with AMD the lone chip name in the green.",
+      "news": [
+        {
+          "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+        }
+      ],
+      "watch_next": "Whether the VIX stays near 16-17 after its large drop; whether semiconductors keep lagging the broad market (SMH 504.27, NVDA 200.13); follow-through on the post-election rally covered in the Nov 3 CNBC item. No earnings or data dates were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-05T00:30:47+00:00"
+    }
+  ],
   "calls": [],
   "lessons": []
 }
