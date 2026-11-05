@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:32:21+00:00",
+  "updated": "2026-11-05T18:40:59+00:00",
   "entries": [
     {
       "session": "close",
@@ -125,6 +125,73 @@
         "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice."
       },
       "at": "2026-11-05T15:32:20+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-05 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the chip selloff deepening since the open. SMH is down 9.83% to 454.70, AMD down 15.48% to 413.13, TSM down 9.50%, AVGO down 8.65% and NVDA down 8.55% to 183.02. The broad market is also sharply lower: QQQ down 5.80% to 651.78 and SPY down 3.99% to 736.24. The VIX is up 62.07% to 26.92, versus 22.25 at the open. CNBC and Bloomberg attribute the move to fears that a Democratic sweep will bring tighter regulation of data-center buildout.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 183.02,
+          "chg_pct": -8.55
+        },
+        {
+          "sym": "SPY",
+          "price": 736.24,
+          "chg_pct": -3.99
+        },
+        {
+          "sym": "QQQ",
+          "price": 651.78,
+          "chg_pct": -5.8
+        },
+        {
+          "sym": "SMH",
+          "price": 454.7,
+          "chg_pct": -9.83
+        },
+        {
+          "sym": "AMD",
+          "price": 413.13,
+          "chg_pct": -15.48
+        },
+        {
+          "sym": "AVGO",
+          "price": 297.34,
+          "chg_pct": -8.65
+        },
+        {
+          "sym": "TSM",
+          "price": 358.16,
+          "chg_pct": -9.5
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.92,
+          "chg_pct": 62.07
+        }
+      ],
+      "movers": "AMD (-15.48%) and the VIX (+62.07%) moved most; SMH (-9.83%) and TSM (-9.50%) followed. CNBC's live blog reports the semiconductor ETF near an 11% drop, its worst day since March 2020, and the Nasdaq Composite in correction territory.",
+      "news": [
+        {
+          "title": "Stock market today: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Chipmaker Selloff Deepens on Fears of Tighter Regulation",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-05/chipmaker-selloff-deepens-on-fears-of-tighter-regulation-video"
+        },
+        {
+          "title": "How the midterms could fuel the K-shaped AI trade",
+          "source": "CNBC",
+          "url": "https://cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds near 455 into the close and whether the VIX stays above 25; any policy statements on data-center regulation; follow-through in AI-infrastructure names such as CoreWeave. No earnings or data release dates were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-05T18:40:59+00:00"
     }
   ],
   "calls": [
@@ -138,8 +205,8 @@
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
       "outcome": "open",
-      "latest_price": 463.34,
-      "return_pct": 0.0,
+      "latest_price": 454.86,
+      "return_pct": -1.83,
       "lesson_saved": false
     }
   ],
