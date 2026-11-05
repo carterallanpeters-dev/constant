@@ -1,21 +1,22 @@
-# Cloud Desk Journal: close session, 2026-11-05 00:30 UTC
+# Cloud Desk — 2026-11-05, open session
 
-**Summary:** SPY +1.65% (766.81) and QQQ +0.97% (691.95), but semiconductors lagged: SMH -2.75%, NVDA -3.17%, AVGO -2.0%, TSM -2.24%. AMD +1.01%. VIX fell 20.26% to 16.61. No trusted article explaining this specific session was found, so the cause is unconfirmed. Data from Yahoo Finance, may be delayed up to 15 minutes.
+**Summary:** Yahoo Finance data at 15:31 UTC (about 9:31am Chicago, may be delayed up to 15 minutes) shows a sharp risk-off move led by semiconductors. SMH -8.09% to 463.48, AMD -13.67%, TSM -7.79%, AVGO -6.72%, NVDA -6.44%. QQQ -4.49%, SPY -2.40%, VIX +33.96% to 22.25. Bloomberg attributes the chip selloff to a post-midterm rotation and fears of tighter data-center regulation.
 
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 200.13 | -3.17 |
-| SPY | 766.81 | +1.65 |
-| QQQ | 691.95 | +0.97 |
-| SMH | 504.27 | -2.75 |
-| AMD | 488.78 | +1.01 |
-| AVGO | 325.48 | -2.00 |
-| TSM | 395.75 | -2.24 |
-| ^VIX | 16.61 | -20.26 |
+| NVDA | 187.23 | -6.44 |
+| SPY | 748.43 | -2.40 |
+| QQQ | 660.87 | -4.49 |
+| SMH | 463.48 | -8.09 |
+| AMD | 421.95 | -13.67 |
+| AVGO | 303.62 | -6.72 |
+| TSM | 364.92 | -7.79 |
+| ^VIX | 22.25 | +33.96 |
 
 **News**
-- [Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html) (CNBC)
+- [Semiconductor ETF Drops Over 3% as Chipmakers Extend Losses in US Futures](https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day) (Bloomberg)
+- [Stock Market Today: Dow, S&P Live Updates for November 5](https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates) (Bloomberg)
 
-**Desk call:** None. The evidence does not support one, and there is no track record yet.
+**Desk call:** SMH, neutral, 5 days, confidence 50. No graded record yet and an open-time move this large can reverse; a view on the evidence, not advice.
 
-**Lessons:** None (no calls to grade).
+**Lessons:** none needed this run.

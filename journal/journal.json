@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T00:30:47+00:00",
+  "updated": "2026-11-05T15:32:21+00:00",
   "entries": [
     {
       "session": "close",
@@ -57,8 +57,91 @@
       "watch_next": "Whether the VIX stays near 16-17 after its large drop; whether semiconductors keep lagging the broad market (SMH 504.27, NVDA 200.13); follow-through on the post-election rally covered in the Nov 3 CNBC item. No earnings or data dates were verified in this run.",
       "desk_call": null,
       "at": "2026-11-05T00:30:47+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-05 15:31 UTC (about 9:31am Chicago, right at the open; may be delayed up to 15 minutes) shows a sharp risk-off move led by semiconductors. SMH is down 8.09% to 463.48, AMD down 13.67% to 421.95, TSM down 7.79%, AVGO down 6.72% and NVDA down 6.44% to 187.23. The broad market is weaker too: QQQ is down 4.49% to 660.87 and SPY down 2.40% to 748.43. The VIX jumped 33.96% to 22.25, reversing the prior close's drop to 16.61. Bloomberg attributes the chip selloff to a rotation after the midterm elections and fears that tighter data-center regulation would hurt chip demand; early-open prints can swing quickly.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 187.23,
+          "chg_pct": -6.44
+        },
+        {
+          "sym": "SPY",
+          "price": 748.43,
+          "chg_pct": -2.4
+        },
+        {
+          "sym": "QQQ",
+          "price": 660.87,
+          "chg_pct": -4.49
+        },
+        {
+          "sym": "SMH",
+          "price": 463.48,
+          "chg_pct": -8.09
+        },
+        {
+          "sym": "AMD",
+          "price": 421.95,
+          "chg_pct": -13.67
+        },
+        {
+          "sym": "AVGO",
+          "price": 303.62,
+          "chg_pct": -6.72
+        },
+        {
+          "sym": "TSM",
+          "price": 364.92,
+          "chg_pct": -7.79
+        },
+        {
+          "sym": "^VIX",
+          "price": 22.25,
+          "chg_pct": 33.96
+        }
+      ],
+      "movers": "AMD (-13.67%) and SMH (-8.09%) fell most, with the VIX (+33.96%) spiking above 22. The whole chip group is down 6% to 14% at the open, a second day of selling after Wednesday's chip weakness.",
+      "news": [
+        {
+          "title": "Semiconductor ETF Drops Over 3% as Chipmakers Extend Losses in US Futures",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day"
+        },
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for November 5",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates"
+        }
+      ],
+      "watch_next": "Whether SMH holds near 463 or keeps falling through the midday session; whether the VIX stays above 22; any policy statements on data-center regulation. No earnings or data release dates were verified in this run.",
+      "desk_call": {
+        "ticker": "SMH",
+        "stance": "neutral",
+        "horizon_days": 5,
+        "confidence": 50,
+        "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice."
+      },
+      "at": "2026-11-05T15:32:20+00:00"
     }
   ],
-  "calls": [],
+  "calls": [
+    {
+      "id": "cloud_202611051532",
+      "date": "2026-11-05T15:32:21+00:00",
+      "ticker": "SMH",
+      "stance": "neutral",
+      "horizon_days": 5,
+      "confidence": 50,
+      "price_at_call": 463.34,
+      "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
+      "outcome": "open",
+      "latest_price": 463.34,
+      "return_pct": 0.0,
+      "lesson_saved": false
+    }
+  ],
   "lessons": []
 }
