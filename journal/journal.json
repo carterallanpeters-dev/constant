@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T21:40:54+00:00",
+  "updated": "2026-11-06T15:41:22+00:00",
   "entries": [
     {
       "session": "close",
@@ -259,6 +259,73 @@
       "watch_next": "Whether SMH holds near 448 or gaps lower on Friday; whether the VIX stays above 28; any policy statements on data-center regulation. No earnings or data release dates were verified in this run.",
       "desk_call": null,
       "at": "2026-11-05T21:40:54+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-06 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows a rebound after Thursday's rout. SMH is up 2.98% to 461.09, AMD up 8.67% to 439.48, TSM up 5.09% and NVDA up 3.89% to 188.66. QQQ is up 1.67% to 657.88 and SPY up 0.76% to 738.56. The VIX is down 16.08% to 23.65 from Thursday's 28.18 close. Bloomberg and CNBC report the bounce follows a selloff that erased about $2.3 trillion of US market value, tied to fears that midterm results will bring tighter data-center regulation; analysts are unsure the low is in.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 188.66,
+          "chg_pct": 3.89
+        },
+        {
+          "sym": "SPY",
+          "price": 738.56,
+          "chg_pct": 0.76
+        },
+        {
+          "sym": "QQQ",
+          "price": 657.88,
+          "chg_pct": 1.67
+        },
+        {
+          "sym": "SMH",
+          "price": 461.09,
+          "chg_pct": 2.98
+        },
+        {
+          "sym": "AMD",
+          "price": 439.48,
+          "chg_pct": 8.67
+        },
+        {
+          "sym": "AVGO",
+          "price": 296.54,
+          "chg_pct": 1.72
+        },
+        {
+          "sym": "TSM",
+          "price": 371.06,
+          "chg_pct": 5.09
+        },
+        {
+          "sym": "^VIX",
+          "price": 23.65,
+          "chg_pct": -16.08
+        }
+      ],
+      "movers": "AMD (+8.67%) and TSM (+5.09%) led the bounce, with NVDA +3.89% and SMH +2.98%. The VIX fell 16.08% to 23.65 but remains well above its level before the selloff.",
+      "news": [
+        {
+          "title": "AI Stocks Rebound After $2.3 Trillion Tech Selloff Wipes Out Market Value",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over"
+        },
+        {
+          "title": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/morning-squawk-blue-wave-stocks.html"
+        },
+        {
+          "title": "Nasdaq attempts to recover from worst rout in 19 months as AI stocks see some buying: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds above Thursday's close of about 448 and the VIX keeps falling below 23; any policy statements on data-center regulation; whether the rebound fades by midday. No earnings or data release dates were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-06T15:41:22+00:00"
     }
   ],
   "calls": [
@@ -272,8 +339,8 @@
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
       "outcome": "open",
-      "latest_price": 447.73,
-      "return_pct": -3.37,
+      "latest_price": 461.09,
+      "return_pct": -0.49,
       "lesson_saved": false
     }
   ],

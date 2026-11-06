@@ -1,23 +1,28 @@
-# Cloud desk: close session, 2026-11-05
+# Cloud Desk: 2026-11-06 (open)
 
-**Summary:** Data from 21:40 UTC (about 3:40pm Chicago, may be delayed 15 min). The chip selloff ended as a broad rout: SMH -11.21% to 447.73, AMD -17.26%, TSM -10.78%, AVGO -10.43%, NVDA -9.26% to 181.60. QQQ -6.49%, SPY -4.41%. VIX +69.66% to 28.18. CNBC reports the Nasdaq Composite fell about 5.5%, its worst day since April 2025, tied to fears that the midterm results will slow AI data-center buildout.
+Yahoo Finance data retrieved 2026-11-06 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows a rebound after Thursday's rout. SMH is up 2.98% to 461.09, AMD up 8.67% to 439.48, TSM up 5.09% and NVDA up 3.89% to 188.66. QQQ is up 1.67% and SPY up 0.76%. The VIX is down 16.08% to 23.65 from 28.18. Bloomberg and CNBC report the bounce follows a selloff that erased about $2.3 trillion of US market value, tied to fears of tighter data-center regulation; analysts are unsure the low is in.
 
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 181.60 | -9.26 |
-| SPY | 733.00 | -4.41 |
-| QQQ | 647.05 | -6.49 |
-| SMH | 447.73 | -11.21 |
-| AMD | 404.40 | -17.26 |
-| AVGO | 291.53 | -10.43 |
-| TSM | 353.10 | -10.78 |
-| ^VIX | 28.18 | +69.66 |
+| NVDA | 188.66 | +3.89 |
+| SPY | 738.56 | +0.76 |
+| QQQ | 657.88 | +1.67 |
+| SMH | 461.09 | +2.98 |
+| AMD | 439.48 | +8.67 |
+| AVGO | 296.54 | +1.72 |
+| TSM | 371.06 | +5.09 |
+| ^VIX | 23.65 | -16.08 |
 
-**News**
-- [AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025](https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html) (CNBC)
-- [Semiconductor ETF Drops Over 3% as Chipmakers Extend Losses in US Futures](https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day) (Bloomberg)
-- [CNBC's experts on whether the AI trade is ending](https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html) (CNBC)
+## News
+- [AI Stocks Rebound After $2.3 Trillion Tech Selloff Wipes Out Market Value](https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over) (Bloomberg)
+- [Nasdaq futures make a small comeback after the tech wreck](https://www.cnbc.com/2026/11/06/morning-squawk-blue-wave-stocks.html) (CNBC)
+- [Nasdaq attempts to recover from worst rout in 19 months: Live updates](https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html) (CNBC)
 
-**Desk call:** none this run.
+## Desk call
+None this run. The open SMH neutral call (5 days) is still being graded.
 
-**Lessons:** none due; the open SMH call (neutral, 5 days) is not yet gradable.
+## Lessons
+None needed (no calls newly graded).
+
+## Watch next
+Whether SMH holds above about 448 and the VIX keeps falling; data-center regulation statements.
