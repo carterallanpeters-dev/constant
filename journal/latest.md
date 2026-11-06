@@ -1,28 +1,29 @@
-# Cloud Desk: 2026-11-06 (open)
+# Cloud Desk: midday journal, 2026-11-06
 
-Yahoo Finance data retrieved 2026-11-06 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows a rebound after Thursday's rout. SMH is up 2.98% to 461.09, AMD up 8.67% to 439.48, TSM up 5.09% and NVDA up 3.89% to 188.66. QQQ is up 1.67% and SPY up 0.76%. The VIX is down 16.08% to 23.65 from 28.18. Bloomberg and CNBC report the bounce follows a selloff that erased about $2.3 trillion of US market value, tied to fears of tighter data-center regulation; analysts are unsure the low is in.
+Data: Yahoo Finance, retrieved 2026-11-06 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
 
+## Summary
+The rebound after Thursday's rout is holding. SMH +3.01% to 461.21, AMD +8.76%, TSM +5.82%, NVDA +2.90%, AVGO -0.21%. QQQ +1.64%, SPY +0.68%. The VIX is down 9.30% to 25.56 (23.65 at the open). Bloomberg ties the chip bounce to solid economic data that reinforced speculation of a December Fed rate increase; CNBC cautions it is too early to call Thursday the washout.
+
+## Watchlist
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 188.66 | +3.89 |
-| SPY | 738.56 | +0.76 |
-| QQQ | 657.88 | +1.67 |
-| SMH | 461.09 | +2.98 |
-| AMD | 439.48 | +8.67 |
-| AVGO | 296.54 | +1.72 |
-| TSM | 371.06 | +5.09 |
-| ^VIX | 23.65 | -16.08 |
+| NVDA | 186.86 | +2.90 |
+| SPY | 737.97 | +0.68 |
+| QQQ | 657.64 | +1.64 |
+| SMH | 461.21 | +3.01 |
+| AMD | 439.84 | +8.76 |
+| AVGO | 290.93 | -0.21 |
+| TSM | 373.64 | +5.82 |
+| ^VIX | 25.56 | -9.30 |
 
 ## News
 - [AI Stocks Rebound After $2.3 Trillion Tech Selloff Wipes Out Market Value](https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over) (Bloomberg)
-- [Nasdaq futures make a small comeback after the tech wreck](https://www.cnbc.com/2026/11/06/morning-squawk-blue-wave-stocks.html) (CNBC)
-- [Nasdaq attempts to recover from worst rout in 19 months: Live updates](https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html) (CNBC)
-
-## Desk call
-None this run. The open SMH neutral call (5 days) is still being graded.
-
-## Lessons
-None needed (no calls newly graded).
+- [Watch Chip Stocks Roar Back as Strong Data Sink Bonds](https://www.bloomberg.com/news/videos/2026-11-06/chip-stocks-roar-back-as-strong-data-sink-bonds-video) (Bloomberg)
+- [Nasdaq futures make a small comeback after the tech wreck sends it into correction territory](https://www.cnbc.com/2026/11/06/morning-squawk-blue-wave-stocks.html) (CNBC)
 
 ## Watch next
-Whether SMH holds above about 448 and the VIX keeps falling; data-center regulation statements.
+SMH vs Thursday's close near 448; VIX staying below 26; bond yields and Fed expectations; data-center regulation statements.
+
+## Desk call
+None this run. The existing neutral SMH call (opened 2026-11-05) is still open; no calls graded yet, so no new lessons.

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:41:22+00:00",
+  "updated": "2026-11-06T18:40:52+00:00",
   "entries": [
     {
       "session": "close",
@@ -326,6 +326,73 @@
       "watch_next": "Whether SMH holds above Thursday's close of about 448 and the VIX keeps falling below 23; any policy statements on data-center regulation; whether the rebound fades by midday. No earnings or data release dates were verified in this run.",
       "desk_call": null,
       "at": "2026-11-06T15:41:22+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-06 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the rebound holding after Thursday's rout. SMH is up 3.01% to 461.21, AMD up 8.76% to 439.84, TSM up 5.82% and NVDA up 2.90% to 186.86, while AVGO is roughly flat at -0.21%. QQQ is up 1.64% to 657.64 and SPY up 0.68% to 737.97. The VIX is down 9.30% to 25.56, versus 23.65 at the open, so volatility has partly re-risen since the morning. Bloomberg ties the chip bounce to solid economic data that reinforced speculation of a Fed rate increase in December, while CNBC cautions it is too early to call Thursday the washout.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 186.86,
+          "chg_pct": 2.9
+        },
+        {
+          "sym": "SPY",
+          "price": 737.97,
+          "chg_pct": 0.68
+        },
+        {
+          "sym": "QQQ",
+          "price": 657.64,
+          "chg_pct": 1.64
+        },
+        {
+          "sym": "SMH",
+          "price": 461.21,
+          "chg_pct": 3.01
+        },
+        {
+          "sym": "AMD",
+          "price": 439.84,
+          "chg_pct": 8.76
+        },
+        {
+          "sym": "AVGO",
+          "price": 290.93,
+          "chg_pct": -0.21
+        },
+        {
+          "sym": "TSM",
+          "price": 373.64,
+          "chg_pct": 5.82
+        },
+        {
+          "sym": "^VIX",
+          "price": 25.56,
+          "chg_pct": -9.3
+        }
+      ],
+      "movers": "AMD (+8.76%) and TSM (+5.82%) led the rebound, with SMH +3.01% and NVDA +2.90%. AVGO lagged at -0.21%, and the VIX is down 9.30% but has given back part of its morning decline (23.65 to 25.56).",
+      "news": [
+        {
+          "title": "AI Stocks Rebound After $2.3 Trillion Tech Selloff Wipes Out Market Value",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over"
+        },
+        {
+          "title": "Watch Chip Stocks Roar Back as Strong Data Sink Bonds",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/chip-stocks-roar-back-as-strong-data-sink-bonds-video"
+        },
+        {
+          "title": "Nasdaq futures make a small comeback after the tech wreck sends it into correction territory",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/morning-squawk-blue-wave-stocks.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds above Thursday's close of about 448 into the close and whether the VIX stays below 26; bond yields and Fed-hike expectations after the strong data; any policy statements on data-center regulation. No earnings or data release dates were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-06T18:40:52+00:00"
     }
   ],
   "calls": [
@@ -339,8 +406,8 @@
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
       "outcome": "open",
-      "latest_price": 461.09,
-      "return_pct": -0.49,
+      "latest_price": 461.21,
+      "return_pct": -0.46,
       "lesson_saved": false
     }
   ],
