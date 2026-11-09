@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T18:40:21+00:00",
+  "updated": "2026-11-09T21:41:33+00:00",
   "entries": [
     {
       "session": "close",
@@ -589,6 +589,73 @@
       "watch_next": "Whether NVDA stabilizes after the Huang investigation headlines, whether SMH holds above 480 and the VIX stays near 20 into the close. CNBC-sourced coverage notes Nvidia reports quarterly earnings on Nov. 17; this date was not confirmed against company investor relations in this run.",
       "desk_call": null,
       "at": "2026-11-09T18:40:21+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-09 21:41 UTC (about 3:40pm Chicago, near the close; may be delayed up to 15 minutes) shows the rally holding into the close. SPY is 752.69 (+2.37%) and QQQ 679.35 (+3.54%), while SMH is 487.41 (+5.05%), AMD 508.58 (+13.26%), AVGO 319.48 (+8.78%) and TSM 388.62 (+3.51%). NVDA is the exception at 178.67 (-4.27%). The VIX is 19.92 (-22.31%), down from 25.64 at Friday's last entry. CNBC and Bloomberg attribute Nvidia's drop to a board probe after CEO Jensen Huang admitted an affair with a woman U.S. intelligence reportedly considers a Chinese spy, and AMD's gain to an Oppenheimer upgrade to outperform with a $600 target.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 178.67,
+          "chg_pct": -4.27
+        },
+        {
+          "sym": "SPY",
+          "price": 752.69,
+          "chg_pct": 2.37
+        },
+        {
+          "sym": "QQQ",
+          "price": 679.35,
+          "chg_pct": 3.54
+        },
+        {
+          "sym": "SMH",
+          "price": 487.41,
+          "chg_pct": 5.05
+        },
+        {
+          "sym": "AMD",
+          "price": 508.58,
+          "chg_pct": 13.26
+        },
+        {
+          "sym": "AVGO",
+          "price": 319.48,
+          "chg_pct": 8.78
+        },
+        {
+          "sym": "TSM",
+          "price": 388.62,
+          "chg_pct": 3.51
+        },
+        {
+          "sym": "^VIX",
+          "price": 19.92,
+          "chg_pct": -22.31
+        }
+      ],
+      "movers": "AMD (+13.26%) and AVGO (+8.78%) led, while NVDA (-4.27%) lagged on company-specific news. The VIX fell to about 19.9, its lowest level in this journal so far.",
+      "news": [
+        {
+          "title": "Nvidia Shares Drop After CEO Huang's Affair Triggers Board Probe",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+        },
+        {
+          "title": "Nvidia stock faces Huang investigation overhang: analysts",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/nvidia-stock-faces-huang-investigation-overhang-analysts.html"
+        },
+        {
+          "title": "AMD stock upgraded by Oppenheimer, $600 target",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html"
+        }
+      ],
+      "watch_next": "Whether NVDA stabilizes as the board review and possible congressional hearing develop, whether SMH holds above 480 and the VIX stays near 20. CNBC-sourced coverage notes Nvidia reports quarterly earnings on Nov. 17; this date was not confirmed against company investor relations in this run.",
+      "desk_call": null,
+      "at": "2026-11-09T21:41:33+00:00"
     }
   ],
   "calls": [
@@ -602,8 +669,8 @@
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
       "outcome": "open",
-      "latest_price": 484.52,
-      "return_pct": 4.57,
+      "latest_price": 487.41,
+      "return_pct": 5.19,
       "lesson_saved": false
     }
   ],
