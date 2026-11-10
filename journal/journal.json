@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T15:44:59+00:00",
+  "updated": "2026-11-10T18:41:21+00:00",
   "entries": [
     {
       "session": "close",
@@ -723,6 +723,68 @@
       "watch_next": "Whether NVDA stabilizes as the board review and shareholder lawsuit develop, whether SMH holds above 480 and the VIX stays near 20. CNBC-sourced coverage lists Nvidia earnings on Nov. 17; this date was not confirmed against company investor relations in this run.",
       "desk_call": null,
       "at": "2026-11-10T15:44:59+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-10 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows risk-off trading. SPY is 747.06 (-0.75%), QQQ 670.27 (-1.34%) and SMH 478.99 (-1.73%), with SMH now below the 480 level the desk was watching. NVDA is down 5.92% to 168.10, extending Monday's drop as scrutiny of CEO Jensen Huang continues. AMD (+0.59% to 511.57), AVGO (+2.44% to 327.28) and TSM (+0.53% to 390.67) are holding gains, and the VIX is 20.79 (+4.37%). CNBC coverage indicates the broader market was also pressured by a hotter-than-expected inflation report and rising odds of a Fed rate hike; this was not independently confirmed in this run.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 168.1,
+          "chg_pct": -5.92
+        },
+        {
+          "sym": "SPY",
+          "price": 747.06,
+          "chg_pct": -0.75
+        },
+        {
+          "sym": "QQQ",
+          "price": 670.27,
+          "chg_pct": -1.34
+        },
+        {
+          "sym": "SMH",
+          "price": 478.99,
+          "chg_pct": -1.73
+        },
+        {
+          "sym": "AMD",
+          "price": 511.57,
+          "chg_pct": 0.59
+        },
+        {
+          "sym": "AVGO",
+          "price": 327.28,
+          "chg_pct": 2.44
+        },
+        {
+          "sym": "TSM",
+          "price": 390.67,
+          "chg_pct": 0.53
+        },
+        {
+          "sym": "^VIX",
+          "price": 20.79,
+          "chg_pct": 4.37
+        }
+      ],
+      "movers": "NVDA (-5.92%) is the biggest decliner on the board probe into its CEO, while AVGO (+2.44%) is the strongest gainer. The semiconductor group is split rather than uniformly weak.",
+      "news": [
+        {
+          "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html"
+        },
+        {
+          "title": "Stock market today: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+        }
+      ],
+      "watch_next": "Whether NVDA holds near its 52-week low (about 164 per CNBC quote data), whether SMH can reclaim 480, and whether the VIX stays near 20 into the close. Nvidia earnings are listed for Nov. 17 by CNBC; not confirmed against company investor relations in this run. Confirm the inflation data and Fed-hike odds from a primary source.",
+      "desk_call": null,
+      "at": "2026-11-10T18:41:21+00:00"
     }
   ],
   "calls": [
