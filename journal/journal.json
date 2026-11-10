@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:41:33+00:00",
+  "updated": "2026-11-10T15:44:59+00:00",
   "entries": [
     {
       "session": "close",
@@ -656,6 +656,73 @@
       "watch_next": "Whether NVDA stabilizes as the board review and possible congressional hearing develop, whether SMH holds above 480 and the VIX stays near 20. CNBC-sourced coverage notes Nvidia reports quarterly earnings on Nov. 17; this date was not confirmed against company investor relations in this run.",
       "desk_call": null,
       "at": "2026-11-09T21:41:33+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-10 15:44 UTC (about 9:44am Chicago; may be delayed up to 15 minutes) shows the market giving back part of Monday's rally. SPY is 748.22 (-0.59%), QQQ 674.74 (-0.68%) and SMH 483.89 (-0.72%). NVDA is down another 4.81% to 170.08, extending Monday's 4.27% drop as scrutiny of CEO Jensen Huang continues. AMD (+3.44% to 526.10), AVGO (+3.27% to 329.92) and TSM (+2.01% to 396.41) are still rising. The VIX is 20.45 (+2.66%), up slightly from 19.92 at yesterday's last entry. CNBC reports Nvidia's board investigation and a shareholder lawsuit are weighing on the stock, while AMD continues to benefit from Oppenheimer's upgrade.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 170.08,
+          "chg_pct": -4.81
+        },
+        {
+          "sym": "SPY",
+          "price": 748.22,
+          "chg_pct": -0.59
+        },
+        {
+          "sym": "QQQ",
+          "price": 674.74,
+          "chg_pct": -0.68
+        },
+        {
+          "sym": "SMH",
+          "price": 483.89,
+          "chg_pct": -0.72
+        },
+        {
+          "sym": "AMD",
+          "price": 526.1,
+          "chg_pct": 3.44
+        },
+        {
+          "sym": "AVGO",
+          "price": 329.92,
+          "chg_pct": 3.27
+        },
+        {
+          "sym": "TSM",
+          "price": 396.41,
+          "chg_pct": 2.01
+        },
+        {
+          "sym": "^VIX",
+          "price": 20.45,
+          "chg_pct": 2.66
+        }
+      ],
+      "movers": "NVDA (-4.81%) is the biggest decliner on company-specific news, while AMD (+3.44%) and AVGO (+3.27%) extend gains, so the move is a rotation within semiconductors rather than a sector-wide selloff.",
+      "news": [
+        {
+          "title": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        },
+        {
+          "title": "Nvidia Shares Drop After CEO Huang's Affair Triggers Board Probe",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+        },
+        {
+          "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html"
+        }
+      ],
+      "watch_next": "Whether NVDA stabilizes as the board review and shareholder lawsuit develop, whether SMH holds above 480 and the VIX stays near 20. CNBC-sourced coverage lists Nvidia earnings on Nov. 17; this date was not confirmed against company investor relations in this run.",
+      "desk_call": null,
+      "at": "2026-11-10T15:44:59+00:00"
     }
   ],
   "calls": [
@@ -668,11 +735,17 @@
       "confidence": 50,
       "price_at_call": 463.34,
       "thesis": "SMH is down 8.09% at the open on a post-election rotation and regulation fears reported by Bloomberg, with the VIX up to 22.25. Moves this large at the open can extend or reverse, and the desk has no graded track record yet, so it takes no directional view and sets minimum confidence. This is a view on the evidence, not advice.",
-      "outcome": "open",
-      "latest_price": 487.41,
-      "return_pct": 5.19,
-      "lesson_saved": false
+      "outcome": "right",
+      "latest_price": 483.89,
+      "return_pct": 4.44,
+      "lesson_saved": true
     }
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "at": "2026-11-10T15:44:59+00:00",
+      "call_id": "cloud_202611051532",
+      "lesson": "The neutral, minimum-confidence call on SMH was graded right (463.34 to 483.89, +4.44% over five days), but a neutral call is only 'right' if the grading rule counts it that way, so the desk should not read it as evidence of skill. Declining to chase an 8% opening drop was sound, since large opening"
+    }
+  ]
 }

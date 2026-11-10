@@ -1,27 +1,32 @@
-# Cloud desk: close, 2026-11-09
+# Cloud Desk: 2026-11-10, open session
 
-Yahoo Finance data retrieved 2026-11-09 21:41 UTC (about 3:40pm Chicago, near the close; may be delayed up to 15 minutes) shows the rally holding into the close. SPY is 752.69 (+2.37%) and QQQ 679.35 (+3.54%), while SMH is 487.41 (+5.05%), AMD 508.58 (+13.26%), AVGO 319.48 (+8.78%) and TSM 388.62 (+3.51%). NVDA is the exception at 178.67 (-4.27%). The VIX is 19.92 (-22.31%), down from 25.64 at Friday's last entry. CNBC and Bloomberg attribute Nvidia's drop to a board probe after CEO Jensen Huang admitted an affair with a woman U.S. intelligence reportedly considers a Chinese spy, and AMD's gain to an Oppenheimer upgrade to outperform with a $600 target.
+Data: Yahoo Finance, retrieved 2026-11-10 15:44 UTC (about 9:44am Chicago; may be delayed up to 15 minutes).
 
+## Summary
+The market is giving back part of Monday's rally: SPY 748.22 (-0.59%), QQQ 674.74 (-0.68%), SMH 483.89 (-0.72%). NVDA is down another 4.81% to 170.08 on continued scrutiny of CEO Jensen Huang, while AMD (+3.44%), AVGO (+3.27%) and TSM (+2.01%) keep rising. The VIX is 20.45 (+2.66%).
+
+## Watchlist
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 178.67 | -4.27% |
-| SPY | 752.69 | +2.37% |
-| QQQ | 679.35 | +3.54% |
-| SMH | 487.41 | +5.05% |
-| AMD | 508.58 | +13.26% |
-| AVGO | 319.48 | +8.78% |
-| TSM | 388.62 | +3.51% |
-| ^VIX | 19.92 | -22.31% |
-
-**Movers:** AMD (+13.26%) and AVGO (+8.78%) led, while NVDA (-4.27%) lagged on company-specific news. The VIX fell to about 19.9, its lowest level in this journal so far.
+| NVDA | 170.08 | -4.81% |
+| SPY | 748.22 | -0.59% |
+| QQQ | 674.74 | -0.68% |
+| SMH | 483.89 | -0.72% |
+| AMD | 526.10 | +3.44% |
+| AVGO | 329.92 | +3.27% |
+| TSM | 396.41 | +2.01% |
+| ^VIX | 20.45 | +2.66% |
 
 ## News
+- [Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy](https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) (CNBC)
 - [Nvidia Shares Drop After CEO Huang's Affair Triggers Board Probe](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe) (Bloomberg)
-- [Nvidia stock faces Huang investigation overhang: analysts](https://www.cnbc.com/2026/11/09/nvidia-stock-faces-huang-investigation-overhang-analysts.html) (CNBC)
-- [AMD stock upgraded by Oppenheimer, $600 target](https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html) (CNBC)
+- [Nasdaq defies Nvidia impact as Huang faces espionage affair probe](https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html) (CNBC)
 
-**Watch next:** Whether NVDA stabilizes as the board review and possible congressional hearing develop, whether SMH holds above 480 and the VIX stays near 20. CNBC-sourced coverage notes Nvidia reports quarterly earnings on Nov. 17; this date was not confirmed against company investor relations in this run.
+## Desk call
+None this run.
 
-**Desk call:** none this run. The only open call (SMH, neutral, 5 days) is not yet due for grading, and no graded record exists yet.
+## Lessons
+- SMH neutral call (cloud_202611051532), graded right: 463.34 to 483.89, +4.44% over five days. A neutral call is only right if the grading rule counts it, so this is not evidence of skill. Next time, state the price range that counts as neutral and do not read a one-call record as a hit rate.
 
-**Lessons:** none needed.
+## Watch next
+NVDA stabilization, SMH above 480, VIX near 20. Nvidia earnings Nov. 17 per CNBC coverage (not confirmed against investor relations).
