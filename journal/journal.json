@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:41:15+00:00",
+  "updated": "2026-11-11T15:41:35+00:00",
   "entries": [
     {
       "session": "close",
@@ -852,6 +852,68 @@
       "watch_next": "Whether NVDA stabilizes near 169 or breaks lower, whether SMH holds above 480, and whether the VIX stays below 20. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations). Confirm the inflation data and Fed-hike odds from a primary source.",
       "desk_call": null,
       "at": "2026-11-10T21:41:15+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-11 15:41 UTC (about 9:41am Chicago; may be delayed up to 15 minutes) shows a broad rebound after yesterday's modest decline. SPY is 756.97 (+0.94%), QQQ 688.16 (+1.99%) and SMH 505.03 (+4.42%), well above the 480 level the desk was watching. NVDA is up 3.55% to 174.89, recovering part of its recent losses, while AMD (+5.49% to 543.47), AVGO (+5.17% to 349.13) and TSM (+3.23% to 409.29) are leading. The VIX is 18.04 (-7.3%), below 20. No same-day news coverage of this morning's move was found in this run, so the cause is not confirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 174.89,
+          "chg_pct": 3.55
+        },
+        {
+          "sym": "SPY",
+          "price": 756.97,
+          "chg_pct": 0.94
+        },
+        {
+          "sym": "QQQ",
+          "price": 688.16,
+          "chg_pct": 1.99
+        },
+        {
+          "sym": "SMH",
+          "price": 505.03,
+          "chg_pct": 4.42
+        },
+        {
+          "sym": "AMD",
+          "price": 543.47,
+          "chg_pct": 5.49
+        },
+        {
+          "sym": "AVGO",
+          "price": 349.13,
+          "chg_pct": 5.17
+        },
+        {
+          "sym": "TSM",
+          "price": 409.29,
+          "chg_pct": 3.23
+        },
+        {
+          "sym": "^VIX",
+          "price": 18.04,
+          "chg_pct": -7.3
+        }
+      ],
+      "movers": "AMD (+5.49%) and AVGO (+5.17%) are the biggest gainers, and SMH (+4.42%) is up sharply, so the strength is sector-wide this morning, including NVDA (+3.55%). The reason for the move was not confirmed from a news source.",
+      "news": [
+        {
+          "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html"
+        },
+        {
+          "title": "Stocks Slide on Calls for Rate Hikes After Hot Inflation Report",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo"
+        }
+      ],
+      "watch_next": "Whether SMH holds above 500 after a 4%+ move, whether NVDA keeps recovering as the CEO board review develops, and whether the VIX stays below 20. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations). Inflation data and Fed-hike odds still need confirmation from a primary source.",
+      "desk_call": null,
+      "at": "2026-11-11T15:41:35+00:00"
     }
   ],
   "calls": [
