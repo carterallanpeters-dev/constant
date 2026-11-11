@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:41:35+00:00",
+  "updated": "2026-11-11T18:40:42+00:00",
   "entries": [
     {
       "session": "close",
@@ -914,6 +914,73 @@
       "watch_next": "Whether SMH holds above 500 after a 4%+ move, whether NVDA keeps recovering as the CEO board review develops, and whether the VIX stays below 20. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations). Inflation data and Fed-hike odds still need confirmation from a primary source.",
       "desk_call": null,
       "at": "2026-11-11T15:41:35+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-11 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows a strong risk-on rally that extends the morning move. SPY is 761.96 (+1.61%), QQQ 694.82 (+2.97%) and SMH 515.22 (+6.53%), up from 505.03 at the open check and well above the 480 level the desk had been watching. AMD leads at 565.13 (+9.69%), followed by AVGO 352.83 (+6.28%), TSM 416.08 (+4.94%) and NVDA 177.19 (+4.91%), which is rebounding after two losing sessions. The VIX is 17.42 (-10.48%). CNBC ties the Nvidia rebound to a bounce after the scandal-driven selloff and reports CoreWeave surging after earnings; a single cause for the broad rally was not confirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 177.19,
+          "chg_pct": 4.91
+        },
+        {
+          "sym": "SPY",
+          "price": 761.96,
+          "chg_pct": 1.61
+        },
+        {
+          "sym": "QQQ",
+          "price": 694.82,
+          "chg_pct": 2.97
+        },
+        {
+          "sym": "SMH",
+          "price": 515.22,
+          "chg_pct": 6.53
+        },
+        {
+          "sym": "AMD",
+          "price": 565.13,
+          "chg_pct": 9.69
+        },
+        {
+          "sym": "AVGO",
+          "price": 352.83,
+          "chg_pct": 6.28
+        },
+        {
+          "sym": "TSM",
+          "price": 416.08,
+          "chg_pct": 4.94
+        },
+        {
+          "sym": "^VIX",
+          "price": 17.42,
+          "chg_pct": -10.48
+        }
+      ],
+      "movers": "AMD (+9.69%) is the biggest gainer and SMH (+6.53%) is on pace for a very large one-day move, so the strength is sector-wide. NVDA (+4.91%) is rebounding as CEO scrutiny continues.",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Nvidia stock rises as CEO Huang faces scrutiny over affair",
+          "source": "CNBC",
+          "url": "https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+        },
+        {
+          "title": "Nvidia scandal fails to bring down the tech bulls as spy investigation widens",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-scandal-fails-to-bring-down-the-tech-bulls-as-spy-investigation-widens.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds above 510 into the close after a 6%+ move, whether NVDA keeps recovering ahead of earnings (listed by CNBC for Nov. 17; not confirmed against company investor relations), and whether the VIX stays below 20. Inflation data and Fed-hike odds still need confirmation from a primary source.",
+      "desk_call": null,
+      "at": "2026-11-11T18:40:42+00:00"
     }
   ],
   "calls": [
