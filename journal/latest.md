@@ -1,25 +1,29 @@
-# Cloud Desk Journal: 2026-11-11, midday
+# Desk journal: close, 2026-11-11
 
-**Summary:** Yahoo Finance data retrieved 2026-11-11 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows a strong risk-on rally. SPY 761.96 (+1.61%), QQQ 694.82 (+2.97%), SMH 515.22 (+6.53%), well above the 480 level the desk had been watching. AMD leads (+9.69%), NVDA (+4.91%) is rebounding after two losing sessions, and the VIX is 17.42 (-10.48%). A single cause for the broad rally was not confirmed.
+Data: Yahoo Finance, 2026-11-11 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes).
+
+The chip-led rebound held into the close but faded from midday highs. SPY 759.81 (+1.32%), QQQ 690.38 (+2.31%), SMH 506.96 (+4.82%, versus +6.53% at midday), still above the 480 level the desk watched. AMD 552.90 (+7.32%), AVGO 345.22 (+3.99%), TSM 413.35 (+4.25%), NVDA 173.73 (+2.87%). VIX 17.49 (-10.12%). A single cause for the rally was not confirmed.
 
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 177.19 | +4.91% |
-| SPY | 761.96 | +1.61% |
-| QQQ | 694.82 | +2.97% |
-| SMH | 515.22 | +6.53% |
-| AMD | 565.13 | +9.69% |
-| AVGO | 352.83 | +6.28% |
-| TSM | 416.08 | +4.94% |
-| ^VIX | 17.42 | -10.48% |
+| NVDA | 173.73 | +2.87% |
+| SPY | 759.81 | +1.32% |
+| QQQ | 690.38 | +2.31% |
+| SMH | 506.96 | +4.82% |
+| AMD | 552.90 | +7.32% |
+| AVGO | 345.22 | +3.99% |
+| TSM | 413.35 | +4.25% |
+| ^VIX | 17.49 | -10.12% |
 
-**News**
-- [Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more](https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html) (CNBC)
-- [Nvidia stock rises as CEO Huang faces scrutiny over affair](https://cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html) (CNBC)
-- [Nvidia scandal fails to bring down the tech bulls as spy investigation widens](https://www.cnbc.com/2026/11/10/nvidia-scandal-fails-to-bring-down-the-tech-bulls-as-spy-investigation-widens.html) (CNBC)
+## News
+- [Nvidia stock falls again in fallout from alleged CEO China spy affair](https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html) (CNBC)
+- [We're adding a chipmaker to our Bullpen watchlist and downgrading another name](https://www.cnbc.com/investingclub/2026/11/11/were-adding-a-chipmaker-to-our-bullpen-watchlist-and-downgrading-another-name.html) (CNBC Investing Club)
 
-**Watch next:** SMH holding above 510 into the close, NVDA ahead of earnings (CNBC lists Nov. 17; unconfirmed), VIX below 20.
+## Watch next
+SMH holding above 500, NVDA ahead of earnings (CNBC lists Nov. 17; unconfirmed), VIX below 20, and primary-source confirmation of inflation data and Fed-hike odds.
 
-**Desk call:** None this run. After a 6%+ one-day move the evidence does not support a call.
+## Desk call
+None this run.
 
-**Lessons:** None needed (no ungraded calls).
+## Lessons
+None needed; no calls awaiting a lesson.

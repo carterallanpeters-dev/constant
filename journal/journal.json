@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:40:42+00:00",
+  "updated": "2026-11-11T21:41:13+00:00",
   "entries": [
     {
       "session": "close",
@@ -981,6 +981,68 @@
       "watch_next": "Whether SMH holds above 510 into the close after a 6%+ move, whether NVDA keeps recovering ahead of earnings (listed by CNBC for Nov. 17; not confirmed against company investor relations), and whether the VIX stays below 20. Inflation data and Fed-hike odds still need confirmation from a primary source.",
       "desk_call": null,
       "at": "2026-11-11T18:40:42+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-11 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows the chip-led rebound holding into the close, though off the midday highs. SPY is 759.81 (+1.32%), QQQ 690.38 (+2.31%) and SMH 506.96 (+4.82%), down from 515.22 (+6.53%) at midday but still well above the 480 level the desk had been watching. AMD is 552.90 (+7.32%, versus +9.69% at midday), AVGO 345.22 (+3.99%), TSM 413.35 (+4.25%) and NVDA 173.73 (+2.87%), which recovered part of the prior two sessions' losses. The VIX is 17.49 (-10.12%), below 20. CNBC describes the Nvidia move as a bounce after the CEO-scandal selloff; a single cause for the broad rally was not confirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 173.73,
+          "chg_pct": 2.87
+        },
+        {
+          "sym": "SPY",
+          "price": 759.81,
+          "chg_pct": 1.32
+        },
+        {
+          "sym": "QQQ",
+          "price": 690.38,
+          "chg_pct": 2.31
+        },
+        {
+          "sym": "SMH",
+          "price": 506.96,
+          "chg_pct": 4.82
+        },
+        {
+          "sym": "AMD",
+          "price": 552.9,
+          "chg_pct": 7.32
+        },
+        {
+          "sym": "AVGO",
+          "price": 345.22,
+          "chg_pct": 3.99
+        },
+        {
+          "sym": "TSM",
+          "price": 413.35,
+          "chg_pct": 4.25
+        },
+        {
+          "sym": "^VIX",
+          "price": 17.49,
+          "chg_pct": -10.12
+        }
+      ],
+      "movers": "AMD (+7.32%) is the biggest gainer; CNBC notes AMD is up roughly 24% this week after an 11% drop the week before. All names faded somewhat from midday highs, with SMH giving back about 1.7 points of gain.",
+      "news": [
+        {
+          "title": "Nvidia stock falls again in fallout from alleged CEO China spy affair",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        },
+        {
+          "title": "We're adding a chipmaker to our Bullpen watchlist and downgrading another name",
+          "source": "CNBC Investing Club",
+          "url": "https://www.cnbc.com/investingclub/2026/11/11/were-adding-a-chipmaker-to-our-bullpen-watchlist-and-downgrading-another-name.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds above 500 at the next session after fading from 515, whether NVDA keeps recovering ahead of earnings (listed by CNBC for Nov. 17; not confirmed against company investor relations), and whether the VIX stays below 20. Inflation data and Fed-hike odds still need confirmation from a primary source.",
+      "desk_call": null,
+      "at": "2026-11-11T21:41:13+00:00"
     }
   ],
   "calls": [
