@@ -1,32 +1,25 @@
-# Cloud Desk Journal: 2026-11-12, open
+# Cloud Desk: midday, 2026-11-12
 
-Data: Yahoo Finance via yfinance, retrieved 15:42 UTC (about 9:42am Chicago; may be delayed up to 15 minutes).
+Data: Yahoo Finance, retrieved 2026-11-12 18:40 UTC (may be delayed up to 15 minutes).
 
-## Summary
-Nvidia fell sharply while the broad market slipped only slightly. NVDA is 165.34 (-4.83%); SPY 758.36 (-0.19%), QQQ 687.38 (-0.43%), SMH 500.37 (-1.30%, right at the 500 level). AMD (+2.86%) and AVGO (+4.59%) are gaining, TSM is -1.52%. VIX 18.30 (+4.63%), below 20. CNBC reports Nvidia fell as CEO Jensen Huang announced he is stepping down; intraday moves it reported were larger than shown at this snapshot.
+**Summary:** The broad market was flat while Nvidia stayed under pressure after CEO Jensen Huang's resignation. NVDA is 165.80 (-4.57%), recovered from early lows of as much as -14% per CNBC. SPY +0.06%, QQQ +0.05%, SMH -0.61% (503.88, above the 500 level). AMD (+5.11%) and AVGO (+5.68%) gained as TSM slipped (-1.32%). VIX 17.69, below 20.
 
-## Watchlist
-| Symbol | Price | Change |
+| Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 165.34 | -4.83% |
-| SPY | 758.36 | -0.19% |
-| QQQ | 687.38 | -0.43% |
-| SMH | 500.37 | -1.30% |
-| AMD | 568.70 | +2.86% |
-| AVGO | 361.07 | +4.59% |
-| TSM | 407.08 | -1.52% |
-| ^VIX | 18.30 | +4.63% |
+| NVDA | 165.80 | -4.57 |
+| SPY | 760.23 | +0.06 |
+| QQQ | 690.73 | +0.05 |
+| SMH | 503.88 | -0.61 |
+| AMD | 581.16 | +5.11 |
+| AVGO | 364.84 | +5.68 |
+| TSM | 407.91 | -1.32 |
+| ^VIX | 17.69 | +1.14 |
 
-## News
-- [Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation](https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html) (CNBC)
-- [Stocks making the biggest moves premarket: Nvidia, AMD, Corteva & more](https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html) (CNBC)
-- [Nvidia Tumbles as Investors Consider Future Without CEO Huang](https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang) (Bloomberg)
+**News**
+- [Nvidia stock pares morning losses after CEO Jensen Huang announces resignation](https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html) (CNBC)
+- [AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains) (Bloomberg)
+- [AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'](https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html) (CNBC)
 
-## Watch next
-SMH holding 500; NVDA around 165 as the leadership transition is digested; analyst target changes; VIX below 20. Nvidia earnings listed by CNBC for Nov. 17 (unconfirmed against company IR).
+**Desk call:** None this run; the evidence does not support one.
 
-## Desk call
-None this run. The news is fast-moving and the evidence does not support a call.
-
-## Lessons
-No calls needed lessons this run.
+**Lessons:** None needed (no calls awaiting lessons).
