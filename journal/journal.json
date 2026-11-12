@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:41:13+00:00",
+  "updated": "2026-11-12T15:42:52+00:00",
   "entries": [
     {
       "session": "close",
@@ -1043,6 +1043,73 @@
       "watch_next": "Whether SMH holds above 500 at the next session after fading from 515, whether NVDA keeps recovering ahead of earnings (listed by CNBC for Nov. 17; not confirmed against company investor relations), and whether the VIX stays below 20. Inflation data and Fed-hike odds still need confirmation from a primary source.",
       "desk_call": null,
       "at": "2026-11-11T21:41:13+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-12 15:42 UTC (about 9:42am Chicago; may be delayed up to 15 minutes) shows Nvidia falling sharply while the broad market slips only slightly. NVDA is 165.34 (-4.83%), down from 173.73 at yesterday's last check. SPY is 758.36 (-0.19%), QQQ 687.38 (-0.43%) and SMH 500.37 (-1.30%), right at the 500 level the desk was watching. Other chip names diverge: AMD is 568.70 (+2.86%) and AVGO 361.07 (+4.59%), while TSM is 407.08 (-1.52%). The VIX is 18.30 (+4.63%), still below 20. CNBC reports Nvidia fell as CEO Jensen Huang announced he is stepping down; intraday moves reported by CNBC were larger than the -4.83% shown here at this snapshot.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 165.34,
+          "chg_pct": -4.83
+        },
+        {
+          "sym": "SPY",
+          "price": 758.36,
+          "chg_pct": -0.19
+        },
+        {
+          "sym": "QQQ",
+          "price": 687.38,
+          "chg_pct": -0.43
+        },
+        {
+          "sym": "SMH",
+          "price": 500.37,
+          "chg_pct": -1.3
+        },
+        {
+          "sym": "AMD",
+          "price": 568.7,
+          "chg_pct": 2.86
+        },
+        {
+          "sym": "AVGO",
+          "price": 361.07,
+          "chg_pct": 4.59
+        },
+        {
+          "sym": "TSM",
+          "price": 407.08,
+          "chg_pct": -1.52
+        },
+        {
+          "sym": "^VIX",
+          "price": 18.3,
+          "chg_pct": 4.63
+        }
+      ],
+      "movers": "NVDA (-4.83%) is the biggest decliner on the leadership news, while AVGO (+4.59%) and AMD (+2.86%) are gaining, suggesting money rotating within chips rather than leaving the sector entirely.",
+      "news": [
+        {
+          "title": "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Nvidia, AMD, Corteva & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Nvidia Tumbles as Investors Consider Future Without CEO Huang",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang"
+        }
+      ],
+      "watch_next": "Whether SMH holds the 500 level, how NVDA settles relative to the 165 area as the interim CEO and board chair transition is digested, analyst target changes, and whether the VIX stays below 20. CNBC has listed Nvidia earnings for Nov. 17 (not confirmed against company investor relations).",
+      "desk_call": null,
+      "at": "2026-11-12T15:42:52+00:00"
     }
   ],
   "calls": [
