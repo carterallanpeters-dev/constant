@@ -1,33 +1,25 @@
-# Cloud Desk: midday, 2026-11-13
+# Cloud Desk: close, 2026-11-13
 
-Data: Yahoo Finance, retrieved 2026-11-13 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+**Summary:** Yahoo Finance data at 21:32 UTC (about 3:32pm Chicago, may be delayed) shows the chip selloff easing into the close but still deep. SMH 486.75 (-2.99%) remains below the 500 level the desk watches. AMD is -8.75%, AVGO -4.76%, NVDA -2.01% after CEO Jensen Huang's resignation. The VIX is 19.30, under 20. The cause of the AMD drop is not confirmed by trusted sources found this run.
 
-## Summary
-The chip selloff continued but is off the morning lows. SMH is 483.67 (-3.60%), still below the 500 level the desk was watching. QQQ -1.43%, SPY -0.59%. The VIX is 19.65 (+5.08%), just under 20. Two searches found no same-day trusted coverage explaining the AMD and SMH drops, so the cause is not confirmed.
-
-| Symbol | Price | Change |
+| Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 162.09 | -2.47% |
-| SPY | 752.64 | -0.59% |
-| QQQ | 678.31 | -1.43% |
-| SMH | 483.67 | -3.60% |
-| AMD | 528.55 | -9.70% |
-| AVGO | 346.58 | -4.88% |
-| TSM | 397.51 | -1.97% |
-| ^VIX | 19.65 | +5.08% |
+| NVDA | 162.85 | -2.01 |
+| SPY | 754.37 | -0.36 |
+| QQQ | 679.89 | -1.20 |
+| SMH | 486.75 | -2.99 |
+| AMD | 534.06 | -8.75 |
+| AVGO | 347.01 | -4.76 |
+| TSM | 398.73 | -1.67 |
+| ^VIX | 19.30 | +3.21 |
 
-## Movers
-AMD (-9.70%) gave back this week's gains; AVGO (-4.88%) and SMH (-3.60%) followed. NVDA (-2.47%) recovered part of its morning drop.
+**News**
+- [Stocks making the biggest moves Friday (CNBC)](https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html)
+- [Nvidia stock sinks 2% in fallout from Jensen Huang resignation (CNBC)](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)
+- [What Nvidia dip buyers need to worry about (CNBC)](https://www.cnbc.com/2026/11/13/what-nvidia-dip-buyers-need-to-worry-about.html)
 
-## News (carried from the earlier entry)
-- [Nvidia stock drops for 6th week, shedding $1.6 trillion in market cap](https://cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html), CNBC
-- [Nvidia CEO Jensen Huang resigns: Live updates](https://cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html), CNBC
+**Desk call:** none this run.
 
-## Watch next
-SMH vs 500 into the close, VIX vs 20, coverage of the AMD/AVGO reversal, Nvidia analyst changes, Nvidia earnings Nov. 17 per CNBC (unconfirmed).
+**Lessons:** none due.
 
-## Desk call
-None. The cause of the move is unconfirmed, so the evidence does not support a call.
-
-## Lessons
-None needed; no calls awaiting a lesson.
+**Watch next:** SMH vs 500, VIX vs 20, coverage of the AMD reversal, NVDA under interim leadership. Nvidia earnings Nov. 17 per CNBC (unconfirmed by company IR).

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:40:56+00:00",
+  "updated": "2026-11-13T21:33:04+00:00",
   "entries": [
     {
       "session": "close",
@@ -1368,6 +1368,73 @@
       "watch_next": "Whether SMH can reclaim 500 into the close, whether the VIX stays below 20, trusted coverage explaining the AMD and AVGO reversal, and analyst rating changes on Nvidia. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations). Both news links were carried from the earlier journal entry; this run's searches did not surface newer trusted items.",
       "desk_call": null,
       "at": "2026-11-13T18:40:56+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-13 21:32 UTC (about 3:32pm Chicago; may be delayed up to 15 minutes) shows the chip selloff easing into the close but still deep. SMH is 486.75 (-2.99%), recovering from 475.05 at the open check but still below the 500 level the desk was watching. QQQ is 679.89 (-1.20%) and SPY 754.37 (-0.36%). NVDA is 162.85 (-2.01%) after CEO Jensen Huang's resignation, AMD is 534.06 (-8.75%), AVGO 347.01 (-4.76%) and TSM 398.73 (-1.67%). The VIX is 19.30 (+3.21%), under 20. CNBC reports AMD, Dell, Nebius and CoreWeave tumbling around 10%, but trusted coverage found this run does not explain the cause.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 162.85,
+          "chg_pct": -2.01
+        },
+        {
+          "sym": "SPY",
+          "price": 754.37,
+          "chg_pct": -0.36
+        },
+        {
+          "sym": "QQQ",
+          "price": 679.89,
+          "chg_pct": -1.2
+        },
+        {
+          "sym": "SMH",
+          "price": 486.75,
+          "chg_pct": -2.99
+        },
+        {
+          "sym": "AMD",
+          "price": 534.06,
+          "chg_pct": -8.75
+        },
+        {
+          "sym": "AVGO",
+          "price": 347.01,
+          "chg_pct": -4.76
+        },
+        {
+          "sym": "TSM",
+          "price": 398.73,
+          "chg_pct": -1.67
+        },
+        {
+          "sym": "^VIX",
+          "price": 19.3,
+          "chg_pct": 3.21
+        }
+      ],
+      "movers": "AMD (-8.75%) is the biggest decliner, reversing this week's gains tied to the Nvidia leadership story, followed by AVGO (-4.76%) and SMH (-2.99%). The declines narrowed slightly from midday (AMD -9.70%, SMH -3.60%).",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves Friday: Nvidia, Cisco Systems, AMD, Apple, Modine & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+        },
+        {
+          "title": "What Nvidia dip buyers need to worry about",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/what-nvidia-dip-buyers-need-to-worry-about.html"
+        }
+      ],
+      "watch_next": "Whether SMH reclaims 500 at the next open, whether the VIX stays under 20, trusted coverage explaining the AMD reversal, and how NVDA trades under interim leadership. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations).",
+      "desk_call": null,
+      "at": "2026-11-13T21:33:04+00:00"
     }
   ],
   "calls": [
