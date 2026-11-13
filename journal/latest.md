@@ -1,25 +1,30 @@
-# Cloud Desk: close, 2026-11-12
+# Cloud Desk Journal: 2026-11-13, open session
 
-Yahoo Finance data retrieved 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes). Nvidia remains down sharply after CEO Jensen Huang's resignation, recovering from an opening plunge above 13% (CNBC). Broad market slightly lower; AMD and AVGO rotate higher. VIX 18.70, below 20.
+Data: Yahoo Finance, retrieved 2026-11-13 16:15 UTC (about 10:15am Chicago; may be delayed up to 15 minutes).
+
+## Summary
+Broad chip selloff. SMH is 475.05 (-5.32%), below the 500 level the desk was watching; QQQ is 672.72 (-2.25%) and SPY 749.43 (-1.02%). NVDA is 158.94 (-4.36%), extending a six-week losing streak per CNBC. The AMD and AVGO rotation from yesterday reversed: AMD 525.15 (-10.28%), AVGO 339.31 (-6.88%), TSM 392.82 (-3.13%). The VIX is 20.18 (+7.91%), back above 20. The cause of the larger intraday drops is not confirmed; reachable sources covered only premarket.
 
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 166.19 | -4.34% |
-| SPY | 757.12 | -0.35% |
-| QQQ | 688.17 | -0.32% |
-| SMH | 501.73 | -1.03% |
-| AMD | 585.30 | +5.86% |
-| AVGO | 364.36 | +5.54% |
-| TSM | 405.49 | -1.90% |
-| ^VIX | 18.70 | +6.92% |
+| NVDA | 158.94 | -4.36% |
+| SPY | 749.43 | -1.02% |
+| QQQ | 672.72 | -2.25% |
+| SMH | 475.05 | -5.32% |
+| AMD | 525.15 | -10.28% |
+| AVGO | 339.31 | -6.88% |
+| TSM | 392.82 | -3.13% |
+| ^VIX | 20.18 | +7.91% |
 
 ## News
-- [AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains) (Bloomberg)
-- [Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting](https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html) (CNBC)
-- [Nvidia live updates](https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html) (CNBC)
+- [Nvidia stock drops for 6th week, shedding $1.6 trillion in market cap](https://cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html) (CNBC)
+- [Nvidia CEO Jensen Huang resigns: Live updates](https://cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html) (CNBC)
+
+## Watch next
+SMH reclaiming 500, VIX holding above 20, trusted coverage of the AMD/AVGO reversal, analyst changes, Nvidia earnings listed for Nov. 17 (unconfirmed).
 
 ## Desk call
-None this run.
+None this run; the cause of the move is unconfirmed.
 
 ## Lessons
 No calls needed lessons this run.
