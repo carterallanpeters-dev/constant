@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:41:14+00:00",
+  "updated": "2026-11-16T21:40:15+00:00",
   "entries": [
     {
       "session": "close",
@@ -1569,6 +1569,68 @@
       "watch_next": "The close versus today's lows for SMH and NVDA, whether the VIX holds above 22, and Nvidia fiscal third-quarter earnings after the close Tuesday Nov. 17 (per CNBC; not confirmed against company investor relations).",
       "desk_call": null,
       "at": "2026-11-16T18:41:14+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Chip stocks extended their losses into the close on Nov. 16. SMH fell 5.11% to 461.90, TSM dropped 6.34% to 373.45, AMD fell 5.58% to 504.28 and NVDA fell 4.12% to 156.14. Broader indexes were weaker too, with SPY down 1.91% to 739.95 and QQQ down 2.67% to 661.75. The VIX rose 18.70% to 22.91. CNBC ties the Nvidia weakness to the fallout from Jensen Huang's resignation as CEO and a wider chipmaker selloff. Prices are from Yahoo Finance and may be delayed up to 15 minutes.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 156.14,
+          "chg_pct": -4.12
+        },
+        {
+          "sym": "SPY",
+          "price": 739.95,
+          "chg_pct": -1.91
+        },
+        {
+          "sym": "QQQ",
+          "price": 661.75,
+          "chg_pct": -2.67
+        },
+        {
+          "sym": "SMH",
+          "price": 461.9,
+          "chg_pct": -5.11
+        },
+        {
+          "sym": "AMD",
+          "price": 504.28,
+          "chg_pct": -5.58
+        },
+        {
+          "sym": "AVGO",
+          "price": 333.4,
+          "chg_pct": -3.92
+        },
+        {
+          "sym": "TSM",
+          "price": 373.45,
+          "chg_pct": -6.34
+        },
+        {
+          "sym": "^VIX",
+          "price": 22.91,
+          "chg_pct": 18.7
+        }
+      ],
+      "movers": "The VIX (+18.70%) and TSM (-6.34%) moved most, followed by AMD (-5.58%) and SMH (-5.11%). NVDA ended the session lower than at the midday check (-4.12% vs -4.59% at midday), a slight recovery, while SPY (-1.91%) was little changed from midday (-1.98%).",
+      "news": [
+        {
+          "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+        },
+        {
+          "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+        }
+      ],
+      "watch_next": "Nvidia fiscal third-quarter earnings, reported as due after the close on Tuesday Nov. 17 and the first call without Huang (per search summaries of CNBC; not confirmed against company investor relations). Also watch whether the VIX holds above 22 and whether SMH stabilizes after a five-percent drop.",
+      "desk_call": null,
+      "at": "2026-11-16T21:40:15+00:00"
     }
   ],
   "calls": [

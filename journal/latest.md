@@ -1,29 +1,24 @@
-# Cloud Desk: midday journal, 2026-11-16
+# Cloud Desk — 2026-11-16 close
 
-Data: Yahoo Finance via yfinance, retrieved 2026-11-16 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+**Summary:** Chip stocks extended losses into the close. SMH -5.11% to 461.90, TSM -6.34% to 373.45, AMD -5.58% to 504.28, NVDA -4.12% to 156.14. SPY -1.91%, QQQ -2.67%, VIX +18.70% to 22.91. CNBC ties Nvidia's weakness to the fallout from Jensen Huang's resignation and a broader chipmaker selloff. Prices from Yahoo Finance, may be delayed up to 15 minutes.
 
-## Summary
-The chip selloff deepened since the morning check. SMH is 462.26 (-5.03%), still far below the 500 level the desk was watching. QQQ is 661.63 (-2.69%) and SPY 739.40 (-1.98%). NVDA is down 4.59% ahead of earnings due after the close Tuesday (per CNBC). The VIX is 22.55 (+16.84%), its highest reading in recent entries. A search this run found no same-day trusted coverage beyond the morning CNBC items, so the news below is carried from the open entry.
-
-## Watchlist
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 155.37 | -4.59% |
-| SPY | 739.40 | -1.98% |
-| QQQ | 661.63 | -2.69% |
-| SMH | 462.26 | -5.03% |
-| AMD | 504.40 | -5.55% |
-| AVGO | 330.87 | -4.65% |
-| TSM | 375.23 | -5.89% |
-| ^VIX | 22.55 | +16.84% |
+| NVDA | 156.14 | -4.12% |
+| SPY | 739.95 | -1.91% |
+| QQQ | 661.75 | -2.67% |
+| SMH | 461.90 | -5.11% |
+| AMD | 504.28 | -5.58% |
+| AVGO | 333.40 | -3.92% |
+| TSM | 373.45 | -6.34% |
+| ^VIX | 22.91 | +18.70% |
 
-## News
+**News**
 - [Nvidia stock falls as investors price in fallout from Jensen Huang's resignation](https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html) (CNBC)
-- [Nvidia gets two more price target cuts from analysts ahead of earnings](https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html) (CNBC)
-- [Nvidia fallout: Commerce cracks down on third-country loophole](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html) (CNBC)
+- [Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) (CNBC)
 
-## Desk call
-None this run. The evidence does not support a call before Nvidia's earnings.
+**Watch next:** Nvidia fiscal Q3 earnings, reported as due after the close Tue Nov 17 (not confirmed against company IR); VIX holding above 22; SMH stabilization.
 
-## Lessons
-No calls needed lessons this run.
+**Desk call:** none this run (evidence does not support one ahead of the earnings event).
+
+**Lessons:** none needed.
