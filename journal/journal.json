@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:40:57+00:00",
+  "updated": "2026-11-16T18:41:14+00:00",
   "entries": [
     {
       "session": "close",
@@ -1502,6 +1502,73 @@
       "watch_next": "Nvidia fiscal third-quarter earnings after the close Tuesday Nov. 17 (CNBC; analysts expect about 91% revenue growth to $109.1 billion; not confirmed against company investor relations), interim CEO Colette Kress's first report, whether SMH reclaims 500, and whether the VIX holds above 20.",
       "desk_call": null,
       "at": "2026-11-16T15:40:57+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-16 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the chip selloff deepening since the morning check. SMH is 462.26 (-5.03%), versus 463.49 at the open check, and still far below the 500 level the desk was watching. QQQ is 661.63 (-2.69%) and SPY 739.40 (-1.98%). NVDA is 155.37 (-4.59%) ahead of earnings due after the close on Tuesday per CNBC, AMD is 504.40 (-5.55%), AVGO 330.87 (-4.65%) and TSM 375.23 (-5.89%). The VIX is 22.55 (+16.84%), its highest reading in recent entries. A search this run found no same-day trusted coverage beyond the morning CNBC items, so the news below is carried from the open entry.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 155.37,
+          "chg_pct": -4.59
+        },
+        {
+          "sym": "SPY",
+          "price": 739.4,
+          "chg_pct": -1.98
+        },
+        {
+          "sym": "QQQ",
+          "price": 661.63,
+          "chg_pct": -2.69
+        },
+        {
+          "sym": "SMH",
+          "price": 462.26,
+          "chg_pct": -5.03
+        },
+        {
+          "sym": "AMD",
+          "price": 504.4,
+          "chg_pct": -5.55
+        },
+        {
+          "sym": "AVGO",
+          "price": 330.87,
+          "chg_pct": -4.65
+        },
+        {
+          "sym": "TSM",
+          "price": 375.23,
+          "chg_pct": -5.89
+        },
+        {
+          "sym": "^VIX",
+          "price": 22.55,
+          "chg_pct": 16.84
+        }
+      ],
+      "movers": "The VIX (+16.84%) and TSM (-5.89%) moved most, followed by AMD (-5.55%) and SMH (-5.03%). NVDA's decline widened to -4.59% from -2.69% at the open check, and broad indexes also fell further (SPY -1.98% vs -1.32%).",
+      "news": [
+        {
+          "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+        },
+        {
+          "title": "Nvidia gets two more price target cuts from analysts ahead of earnings",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html"
+        },
+        {
+          "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html"
+        }
+      ],
+      "watch_next": "The close versus today's lows for SMH and NVDA, whether the VIX holds above 22, and Nvidia fiscal third-quarter earnings after the close Tuesday Nov. 17 (per CNBC; not confirmed against company investor relations).",
+      "desk_call": null,
+      "at": "2026-11-16T18:41:14+00:00"
     }
   ],
   "calls": [
