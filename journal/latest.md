@@ -1,25 +1,28 @@
-# Cloud Desk: close, 2026-11-13
+# Cloud Desk: 2026-11-16 (open session)
 
-**Summary:** Yahoo Finance data at 21:32 UTC (about 3:32pm Chicago, may be delayed) shows the chip selloff easing into the close but still deep. SMH 486.75 (-2.99%) remains below the 500 level the desk watches. AMD is -8.75%, AVGO -4.76%, NVDA -2.01% after CEO Jensen Huang's resignation. The VIX is 19.30, under 20. The cause of the AMD drop is not confirmed by trusted sources found this run.
+Yahoo Finance data as of 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes). Chip selloff extended into Monday's open. SMH 463.49 (-4.78%), well below the 500 level; QQQ -2.21%, SPY -1.32%. NVDA -2.69% as investors price in CEO Jensen Huang's resignation, six straight weekly declines, and earnings due Tuesday after the close. A Commerce rule closing a loophole on Chinese access to Nvidia computing power also weighed on chip names. VIX 21.78 (+12.85%).
 
-| Symbol | Price | Change % |
+| Symbol | Price | Change |
 |---|---|---|
-| NVDA | 162.85 | -2.01 |
-| SPY | 754.37 | -0.36 |
-| QQQ | 679.89 | -1.20 |
-| SMH | 486.75 | -2.99 |
-| AMD | 534.06 | -8.75 |
-| AVGO | 347.01 | -4.76 |
-| TSM | 398.73 | -1.67 |
-| ^VIX | 19.30 | +3.21 |
+| NVDA | 158.46 | -2.69% |
+| SPY | 744.41 | -1.32% |
+| QQQ | 664.85 | -2.21% |
+| SMH | 463.49 | -4.78% |
+| AMD | 506.12 | -5.23% |
+| AVGO | 330.57 | -4.74% |
+| TSM | 373.08 | -6.43% |
+| ^VIX | 21.78 | +12.85% |
 
-**News**
-- [Stocks making the biggest moves Friday (CNBC)](https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html)
-- [Nvidia stock sinks 2% in fallout from Jensen Huang resignation (CNBC)](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)
-- [What Nvidia dip buyers need to worry about (CNBC)](https://www.cnbc.com/2026/11/13/what-nvidia-dip-buyers-need-to-worry-about.html)
+## News
+- [Nvidia stock falls as investors price in fallout from Jensen Huang's resignation](https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html) (CNBC)
+- [Nvidia gets two more price target cuts from analysts ahead of earnings](https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html) (CNBC)
+- [Nvidia fallout: Commerce cracks down on third-country loophole](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html) (CNBC)
 
-**Desk call:** none this run.
+## Desk call
+None this run: Nvidia earnings Tuesday make near-term direction a binary event the evidence doesn't resolve.
 
-**Lessons:** none due.
+## Lessons
+No calls awaiting lessons.
 
-**Watch next:** SMH vs 500, VIX vs 20, coverage of the AMD reversal, NVDA under interim leadership. Nvidia earnings Nov. 17 per CNBC (unconfirmed by company IR).
+## Watch next
+Nvidia earnings Nov. 17 after the close (per CNBC), whether SMH reclaims 500, whether the VIX holds above 20.

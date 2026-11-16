@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:33:04+00:00",
+  "updated": "2026-11-16T15:40:57+00:00",
   "entries": [
     {
       "session": "close",
@@ -1435,6 +1435,73 @@
       "watch_next": "Whether SMH reclaims 500 at the next open, whether the VIX stays under 20, trusted coverage explaining the AMD reversal, and how NVDA trades under interim leadership. CNBC lists Nvidia earnings for Nov. 17 (not confirmed against company investor relations).",
       "desk_call": null,
       "at": "2026-11-13T21:33:04+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-16 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows the chip selloff extending into Monday's open. SMH is 463.49 (-4.78%), well below the 500 level the desk was watching, QQQ is 664.85 (-2.21%) and SPY 744.41 (-1.32%). NVDA is 158.46 (-2.69%) as investors price in fallout from CEO Jensen Huang's resignation, with CNBC noting six straight weekly declines and earnings due Tuesday after the close. TSM is 373.08 (-6.43%), AMD 506.12 (-5.23%) and AVGO 330.57 (-4.74%). The VIX is 21.78 (+12.85%), its highest reading in recent entries. CNBC also cites a Commerce Department rule closing a loophole on Chinese access to Nvidia computing power as weighing on chip names.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 158.46,
+          "chg_pct": -2.69
+        },
+        {
+          "sym": "SPY",
+          "price": 744.41,
+          "chg_pct": -1.32
+        },
+        {
+          "sym": "QQQ",
+          "price": 664.85,
+          "chg_pct": -2.21
+        },
+        {
+          "sym": "SMH",
+          "price": 463.49,
+          "chg_pct": -4.78
+        },
+        {
+          "sym": "AMD",
+          "price": 506.12,
+          "chg_pct": -5.23
+        },
+        {
+          "sym": "AVGO",
+          "price": 330.57,
+          "chg_pct": -4.74
+        },
+        {
+          "sym": "TSM",
+          "price": 373.08,
+          "chg_pct": -6.43
+        },
+        {
+          "sym": "^VIX",
+          "price": 21.78,
+          "chg_pct": 12.85
+        }
+      ],
+      "movers": "TSM (-6.43%) is the biggest decliner, followed by AMD (-5.23%), SMH (-4.78%) and AVGO (-4.74%). The VIX jumped 12.85% to 21.78. CNBC attributes pressure to the Huang exit, analyst price target cuts on Nvidia (Mizuho, UBS) and the new Commerce export rule; the TSM-specific move is not explained in the coverage found.",
+      "news": [
+        {
+          "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+        },
+        {
+          "title": "Nvidia gets two more price target cuts from analysts ahead of earnings",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html"
+        },
+        {
+          "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html"
+        }
+      ],
+      "watch_next": "Nvidia fiscal third-quarter earnings after the close Tuesday Nov. 17 (CNBC; analysts expect about 91% revenue growth to $109.1 billion; not confirmed against company investor relations), interim CEO Colette Kress's first report, whether SMH reclaims 500, and whether the VIX holds above 20.",
+      "desk_call": null,
+      "at": "2026-11-16T15:40:57+00:00"
     }
   ],
   "calls": [
