@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:40:58+00:00",
+  "updated": "2026-11-17T18:40:24+00:00",
   "entries": [
     {
       "session": "close",
@@ -1698,6 +1698,68 @@
       "watch_next": "Nvidia fiscal third-quarter earnings after the close today, Nov. 17 (per CNBC; not confirmed against company investor relations), including guidance and commentary from interim CEO Colette Kress. Also whether SMH holds above Monday's 461.90 close, and whether the VIX stays above 22.",
       "desk_call": null,
       "at": "2026-11-17T15:40:58+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-17 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows chip stocks recovering slightly from the open but still lower ahead of Nvidia's earnings after the close today. SMH is 455.45 (-1.40%), QQQ 654.89 (-1.04%) and SPY 731.84 (-1.10%). NVDA is 153.49 (-1.70%), better than -2.88% at the open check, while AMD is 490.23 (-2.79%), TSM 359.26 (-3.80%) and AVGO 338.20 (+1.44%). The VIX jumped to 25.73 (+12.31%), up from 22.98 at the open check, a sign of rising hedging demand. Reuters, as summarized in search results, said options imply roughly an 8.5% Nvidia move after the report.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 153.49,
+          "chg_pct": -1.7
+        },
+        {
+          "sym": "SPY",
+          "price": 731.84,
+          "chg_pct": -1.1
+        },
+        {
+          "sym": "QQQ",
+          "price": 654.89,
+          "chg_pct": -1.04
+        },
+        {
+          "sym": "SMH",
+          "price": 455.45,
+          "chg_pct": -1.4
+        },
+        {
+          "sym": "AMD",
+          "price": 490.23,
+          "chg_pct": -2.79
+        },
+        {
+          "sym": "AVGO",
+          "price": 338.2,
+          "chg_pct": 1.44
+        },
+        {
+          "sym": "TSM",
+          "price": 359.26,
+          "chg_pct": -3.8
+        },
+        {
+          "sym": "^VIX",
+          "price": 25.73,
+          "chg_pct": 12.31
+        }
+      ],
+      "movers": "The VIX (+12.31%) and TSM (-3.80%) moved most, followed by AMD (-2.79%). AVGO (+1.44%) was the only chip name higher, and NVDA's loss narrowed to -1.70% from -2.88% at the open check.",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+        }
+      ],
+      "watch_next": "Nvidia fiscal third-quarter results after the close today (consensus per search summaries about $109 billion revenue and $2.47 EPS; guidance was $108 billion plus or minus 2%; not confirmed against company investor relations), including commentary from interim CEO Colette Kress. Also whether the VIX holds above 25 and whether SMH holds above 452.",
+      "desk_call": null,
+      "at": "2026-11-17T18:40:24+00:00"
     }
   ],
   "calls": [

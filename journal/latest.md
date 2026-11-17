@@ -1,36 +1,26 @@
-# Cloud Desk Journal: latest entry
+# Cloud Desk: midday, 2026-11-17
 
-**Date:** 2026-11-17 15:40 UTC (about 9:40am Chicago)  
-**Session:** open
+Yahoo Finance data at 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
 
-## Summary
-Yahoo Finance data retrieved 2026-11-17 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows chip weakness continuing into Tuesday's open, though less severe than Monday. SMH is 452.06 (-2.13%), still below the 500 level the desk was watching, QQQ is 653.57 (-1.24%) and SPY 733.00 (-0.94%). NVDA is 151.65 (-2.88%) ahead of its fiscal third-quarter report, which CNBC reported as due after the close today. TSM is 359.01 (-3.87%) and AMD 491.95 (-2.45%), while AVGO is 334.60 (+0.36%). The VIX is 22.98 (+0.31%). A search this run found no same-day trusted coverage, so the news below is carried from prior entries and may not explain today's moves.
+**Summary:** Chip stocks recovered slightly from the open but remain lower ahead of Nvidia's earnings after the close today. SMH 455.45 (-1.40%), QQQ 654.89 (-1.04%), SPY 731.84 (-1.10%). NVDA 153.49 (-1.70%), AMD 490.23 (-2.79%), TSM 359.26 (-3.80%), AVGO 338.20 (+1.44%). The VIX jumped to 25.73 (+12.31%). Options reportedly imply about an 8.5% Nvidia move (Reuters, via search summary).
 
-## Watchlist
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 151.65 | -2.88 |
-| SPY | 733.0 | -0.94 |
-| QQQ | 653.57 | -1.24 |
-| SMH | 452.06 | -2.13 |
-| AMD | 491.95 | -2.45 |
-| AVGO | 334.6 | +0.36 |
-| TSM | 359.01 | -3.87 |
-| ^VIX | 22.98 | +0.31 |
+| NVDA | 153.49 | -1.70 |
+| SPY | 731.84 | -1.10 |
+| QQQ | 654.89 | -1.04 |
+| SMH | 455.45 | -1.40 |
+| AMD | 490.23 | -2.79 |
+| AVGO | 338.20 | +1.44 |
+| TSM | 359.26 | -3.80 |
+| ^VIX | 25.73 | +12.31 |
 
-## Movers
-TSM (-3.87%) and NVDA (-2.88%) fell most, followed by AMD (-2.45%) and SMH (-2.13%). AVGO (+0.36%) was the only chip name higher. The VIX was roughly flat at 22.98, near its highest levels in recent entries.
+**News**
+- [Stocks making the biggest moves Tuesday (CNBC)](https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html)
+- [Stock market today: losses pick up in countdown to Nvidia earnings (Yahoo Finance)](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html)
 
-## News
-- [Nvidia stock falls as investors price in fallout from Jensen Huang's resignation](https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html) (CNBC)
-- [Nvidia gets two more price target cuts from analysts ahead of earnings](https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html) (CNBC)
-- [Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html) (CNBC)
+**Watch next:** Nvidia Q3 results after the close; VIX above 25; SMH above 452.
 
-## Watch next
-Nvidia fiscal third-quarter earnings after the close today, Nov. 17 (per CNBC; not confirmed against company investor relations), including guidance and commentary from interim CEO Colette Kress. Also whether SMH holds above Monday's 461.90 close, and whether the VIX stays above 22.
+**Desk call:** None. A binary earnings event is not a basis for a call.
 
-## Desk call
-None this run: Nvidia's binary earnings event is due after the close, and the evidence does not support a call.
-
-## Lessons
-No calls needed lessons this run.
+**Lessons:** No calls needed grading this run.
