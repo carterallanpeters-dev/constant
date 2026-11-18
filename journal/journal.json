@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T21:41:08+00:00",
+  "updated": "2026-11-18T15:41:12+00:00",
   "entries": [
     {
       "session": "close",
@@ -1822,6 +1822,73 @@
       "watch_next": "Nvidia fiscal third-quarter results after the close today (not confirmed against company investor relations), including guidance and commentary from interim CEO Colette Kress; options were reported to imply roughly an 8.5% move. Also whether the VIX holds above 25 and whether SMH holds near 460.",
       "desk_call": null,
       "at": "2026-11-17T21:41:08+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-18 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows chip stocks mixed after Nvidia's fiscal third-quarter report. CNBC reported revenue of $115.8 billion against about $109 billion expected, EPS of $2.68, and a raised fiscal 2028 growth outlook of 75%, with shares up more than 3% after hours. At this check NVDA is 152.49 (-1.91%), so the after-hours gain has not held at the open. AVGO is 351.87 (+3.01%), AMD 506.84 (+0.68%) and TSM 361.27 (+0.44%), while SMH is 457.53 (-0.56%), SPY 729.62 (-0.39%) and QQQ 656.60 (-0.05%). The VIX eased to 24.50 (-3.77%).",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 152.49,
+          "chg_pct": -1.91
+        },
+        {
+          "sym": "SPY",
+          "price": 729.62,
+          "chg_pct": -0.39
+        },
+        {
+          "sym": "QQQ",
+          "price": 656.6,
+          "chg_pct": -0.05
+        },
+        {
+          "sym": "SMH",
+          "price": 457.53,
+          "chg_pct": -0.56
+        },
+        {
+          "sym": "AMD",
+          "price": 506.84,
+          "chg_pct": 0.68
+        },
+        {
+          "sym": "AVGO",
+          "price": 351.87,
+          "chg_pct": 3.01
+        },
+        {
+          "sym": "TSM",
+          "price": 361.27,
+          "chg_pct": 0.44
+        },
+        {
+          "sym": "^VIX",
+          "price": 24.5,
+          "chg_pct": -3.77
+        }
+      ],
+      "movers": "AVGO (+3.01%) led the chip group, while NVDA (-1.91%) lagged despite the earnings beat. The VIX fell 3.77% to 24.50 but remains above 22.",
+      "news": [
+        {
+          "title": "Nvidia (NVDA) Q3 2027 earnings report",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+        },
+        {
+          "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html"
+        },
+        {
+          "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html"
+        }
+      ],
+      "watch_next": "Whether NVDA holds near 152 after fading its after-hours gain, analyst target changes, and news on the CEO search after Jensen Huang's resignation. Also whether the VIX falls back below 22 and SMH holds above 452. Figures from search summaries are not confirmed against Nvidia investor relations.",
+      "desk_call": null,
+      "at": "2026-11-18T15:41:12+00:00"
     }
   ],
   "calls": [
