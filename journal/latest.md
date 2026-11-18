@@ -1,28 +1,25 @@
-# Cloud Desk: open, 2026-11-18
+# Cloud Desk Journal: 2026-11-18, midday
 
-Data: Yahoo Finance, retrieved 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes).
+Data: Yahoo Finance, retrieved 2026-11-18 18:40 UTC (may be delayed up to 15 minutes).
 
-## Summary
-Chip stocks were mixed after Nvidia's fiscal third-quarter report. CNBC reported revenue of $115.8 billion against about $109 billion expected, EPS of $2.68, and a raised fiscal 2028 growth outlook of 75%, with shares up more than 3% after hours. NVDA is -1.91% at this check, so the after-hours gain has not held. AVGO led (+3.01%) and the VIX eased to 24.50.
+**Summary:** The market stabilized after Nvidia's report while NVDA lags. SPY 733.04 (+0.08%), QQQ 661.14 (+0.64%), SMH 459.23 (-0.19%). NVDA 152.12 (-2.15%) has fully faded its post-earnings gain despite revenue of $115.84B vs about $109.1B expected (CNBC). AMD +3.40%, AVGO +3.53%, TSM +0.38%. VIX 24.07 (-5.46%).
 
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 152.49 | -1.91% |
-| SPY | 729.62 | -0.39% |
-| QQQ | 656.60 | -0.05% |
-| SMH | 457.53 | -0.56% |
-| AMD | 506.84 | +0.68% |
-| AVGO | 351.87 | +3.01% |
-| TSM | 361.27 | +0.44% |
-| ^VIX | 24.50 | -3.77% |
+| NVDA | 152.12 | -2.15% |
+| SPY | 733.04 | +0.08% |
+| QQQ | 661.14 | +0.64% |
+| SMH | 459.23 | -0.19% |
+| AMD | 520.53 | +3.40% |
+| AVGO | 353.66 | +3.53% |
+| TSM | 361.06 | +0.38% |
+| ^VIX | 24.07 | -5.46% |
 
-## News
-- [Nvidia (NVDA) Q3 2027 earnings report](https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html), CNBC
-- ['Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat](https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html), CNBC
-- [Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up](https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html), CNBC
+**News**
+- [Stocks making the biggest moves Wednesday](https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html) (CNBC)
+- [Nvidia Results Boost Nasdaq 100 Futures, Soothe AI Market Concerns](https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries) (Bloomberg)
+- [CoreWeave, Iren, Nebius shares sink following Nvidia earnings](https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html) (CNBC)
 
-## Desk call
-None this run. The evidence is mixed (beat, but the stock faded at the open).
+**Desk call:** None this run.
 
-## Lessons
-None needed (no ungraded calls).
+**Lessons:** No calls needed grading this run.

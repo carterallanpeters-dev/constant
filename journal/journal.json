@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T15:41:12+00:00",
+  "updated": "2026-11-18T18:40:49+00:00",
   "entries": [
     {
       "session": "close",
@@ -1889,6 +1889,73 @@
       "watch_next": "Whether NVDA holds near 152 after fading its after-hours gain, analyst target changes, and news on the CEO search after Jensen Huang's resignation. Also whether the VIX falls back below 22 and SMH holds above 452. Figures from search summaries are not confirmed against Nvidia investor relations.",
       "desk_call": null,
       "at": "2026-11-18T15:41:12+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-18 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the market stabilizing after Nvidia's report while NVDA itself lags. SPY is 733.04 (+0.08%) and QQQ 661.14 (+0.64%), while SMH is 459.23 (-0.19%). NVDA is 152.12 (-2.15%), so the post-earnings gain has fully faded despite revenue of $115.84 billion versus about $109.1 billion expected, per CNBC. AMD is 520.53 (+3.40%), AVGO 353.66 (+3.53%) and TSM 361.06 (+0.38%). The VIX fell to 24.07 (-5.46%).",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 152.12,
+          "chg_pct": -2.15
+        },
+        {
+          "sym": "SPY",
+          "price": 733.04,
+          "chg_pct": 0.08
+        },
+        {
+          "sym": "QQQ",
+          "price": 661.14,
+          "chg_pct": 0.64
+        },
+        {
+          "sym": "SMH",
+          "price": 459.23,
+          "chg_pct": -0.19
+        },
+        {
+          "sym": "AMD",
+          "price": 520.53,
+          "chg_pct": 3.4
+        },
+        {
+          "sym": "AVGO",
+          "price": 353.66,
+          "chg_pct": 3.53
+        },
+        {
+          "sym": "TSM",
+          "price": 361.06,
+          "chg_pct": 0.38
+        },
+        {
+          "sym": "^VIX",
+          "price": 24.07,
+          "chg_pct": -5.46
+        }
+      ],
+      "movers": "AVGO (+3.53%) and AMD (+3.40%) led, while NVDA (-2.15%) lagged its own earnings beat. The VIX dropped 5.46% to 24.07.",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves Wednesday: Nvidia, Take-Two Interactive, Lowe's & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Nvidia Results Boost Nasdaq 100 Futures, Soothe AI Market Concerns",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries"
+        },
+        {
+          "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        }
+      ],
+      "watch_next": "Whether NVDA holds near 152 or the gap to AMD and AVGO keeps widening, analyst target changes, and news on the Nvidia CEO question. Also whether the VIX falls below 22 and SMH holds above 452. Figures from search summaries are not confirmed against Nvidia investor relations.",
+      "desk_call": null,
+      "at": "2026-11-18T18:40:49+00:00"
     }
   ],
   "calls": [
