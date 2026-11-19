@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:40:49+00:00",
+  "updated": "2026-11-19T15:40:36+00:00",
   "entries": [
     {
       "session": "close",
@@ -1956,6 +1956,57 @@
       "watch_next": "Whether NVDA holds near 152 or the gap to AMD and AVGO keeps widening, analyst target changes, and news on the Nvidia CEO question. Also whether the VIX falls below 22 and SMH holds above 452. Figures from search summaries are not confirmed against Nvidia investor relations.",
       "desk_call": null,
       "at": "2026-11-18T18:40:49+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Early Thursday trading is mixed. SPY is at 726.80 (-0.47%) and QQQ at 657.50 (-0.30%), while SMH is nearly flat at 459.30 (-0.05%). NVDA is up 0.50% at 151.71 after lagging the group yesterday. AMD is the outlier at 488.64, down 7.83%. The VIX is 24.16 (-1.63%), still elevated. Data is from Yahoo Finance and may be delayed up to 15 minutes.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 152.1,
+          "chg_pct": 0.76
+        },
+        {
+          "sym": "SPY",
+          "price": 727.27,
+          "chg_pct": -0.4
+        },
+        {
+          "sym": "QQQ",
+          "price": 657.89,
+          "chg_pct": -0.25
+        },
+        {
+          "sym": "SMH",
+          "price": 459.7,
+          "chg_pct": 0.04
+        },
+        {
+          "sym": "AMD",
+          "price": 487.73,
+          "chg_pct": -8.0
+        },
+        {
+          "sym": "AVGO",
+          "price": 354.32,
+          "chg_pct": 0.08
+        },
+        {
+          "sym": "TSM",
+          "price": 361.81,
+          "chg_pct": -0.22
+        },
+        {
+          "sym": "^VIX",
+          "price": 24.22,
+          "chg_pct": -1.38
+        }
+      ],
+      "movers": "AMD (-7.83%) is by far the largest move. I could not find trusted-source coverage explaining it, and a second Yahoo quote request failed, so the figure is unconfirmed and the cause unknown.",
+      "news": [],
+      "watch_next": "Whether AMD's drop is confirmed by a second source and what drove it; whether NVDA holds near 152; SMH relative to 452; whether the VIX falls below 22. No trusted-source news items were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-19T15:40:36+00:00"
     }
   ],
   "calls": [
