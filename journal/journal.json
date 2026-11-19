@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:41:08+00:00",
+  "updated": "2026-11-19T21:40:56+00:00",
   "entries": [
     {
       "session": "close",
@@ -2058,6 +2058,73 @@
       "watch_next": "Whether trusted coverage emerges explaining the AMD decline and the VIX jump; whether SMH holds above 452 and NVDA above 149; whether the VIX stays above 27. No trusted-source news items were verified in this run.",
       "desk_call": null,
       "at": "2026-11-19T18:41:08+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-19 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows the risk-off move deepened into the close. SPY is 715.87 (-1.96%), QQQ 645.04 (-2.19%) and SMH 447.48 (-2.62%), below the 452 level the desk was watching. NVDA is 145.98 (-3.30%), AVGO 346.65 (-2.09%) and TSM 352.09 (-2.90%). AMD is 489.19 (-7.72%), recovering slightly from midday lows. The VIX is 28.44 (+15.80%), up from 27.37 at midday. CNBC reports the Nasdaq Composite fell 2.25% as the Anthropic IPO began trading and AMD was hit by a short-seller report.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 145.98,
+          "chg_pct": -3.3
+        },
+        {
+          "sym": "SPY",
+          "price": 715.87,
+          "chg_pct": -1.96
+        },
+        {
+          "sym": "QQQ",
+          "price": 645.04,
+          "chg_pct": -2.19
+        },
+        {
+          "sym": "SMH",
+          "price": 447.48,
+          "chg_pct": -2.62
+        },
+        {
+          "sym": "AMD",
+          "price": 489.19,
+          "chg_pct": -7.72
+        },
+        {
+          "sym": "AVGO",
+          "price": 346.65,
+          "chg_pct": -2.09
+        },
+        {
+          "sym": "TSM",
+          "price": 352.09,
+          "chg_pct": -2.9
+        },
+        {
+          "sym": "^VIX",
+          "price": 28.44,
+          "chg_pct": 15.8
+        }
+      ],
+      "movers": "AMD (-7.72%) was hit after Hunterbrook Capital disclosed a short position citing alleged export-control breaches involving China; AMD denied wrongdoing, per CNBC. NVDA (-3.30%) was the weakest large chip name besides AMD, and the VIX (+15.80%) is near its highest level since March per CNBC.",
+      "news": [
+        {
+          "title": "Stocks making the biggest moves Thursday: Anthropic, CoreWeave, Coherent, AMD & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Stock market news for Nov. 19, 2026",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for November 19, 2026",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates"
+        }
+      ],
+      "watch_next": "Whether SMH can reclaim 452 or extends lower; whether the VIX holds above 28; follow-up on the AMD short report and any AMD response or regulatory comment; trading in the newly listed Anthropic shares and AI-sector sentiment. News details come from search summaries and are not confirmed against primary documents.",
+      "desk_call": null,
+      "at": "2026-11-19T21:40:56+00:00"
     }
   ],
   "calls": [

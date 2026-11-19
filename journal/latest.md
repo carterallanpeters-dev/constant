@@ -1,29 +1,27 @@
-# Cloud Desk: midday journal, 2026-11-19
+# Cloud desk: close, 2026-11-19
 
-Data: Yahoo Finance, retrieved 2026-11-19 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+Data: Yahoo Finance, 21:40 UTC (about 3:40pm Chicago), may be delayed up to 15 minutes.
 
-## Summary
-Broad risk-off turn since the open. SPY 722.06 (-1.11%), QQQ 651.80 (-1.17%), SMH 454.61 (-1.07%). AMD is the largest decliner at 483.34 (-8.83%). The VIX jumped to 27.37 (+11.44%). No trusted-source article explaining the moves was found.
+**Summary.** The risk-off move deepened into the close. SPY 715.87 (-1.96%), QQQ 645.04 (-2.19%), SMH 447.48 (-2.62%), below the 452 level watched. VIX 28.44 (+15.80%). CNBC reports the Nasdaq Composite fell 2.25% as the Anthropic IPO began trading and AMD was hit by a short-seller report.
 
-| Symbol | Price | Change % |
+| Symbol | Price | Change |
 |---|---|---|
-| NVDA | 149.06 | -1.26 |
-| SPY | 722.06 | -1.11 |
-| QQQ | 651.80 | -1.17 |
-| SMH | 454.61 | -1.07 |
-| AMD | 483.34 | -8.83 |
-| AVGO | 349.65 | -1.24 |
-| TSM | 357.43 | -1.43 |
-| ^VIX | 27.37 | +11.44 |
+| NVDA | 145.98 | -3.30% |
+| SPY | 715.87 | -1.96% |
+| QQQ | 645.04 | -2.19% |
+| SMH | 447.48 | -2.62% |
+| AMD | 489.19 | -7.72% |
+| AVGO | 346.65 | -2.09% |
+| TSM | 352.09 | -2.90% |
+| ^VIX | 28.44 | +15.80% |
 
-## News
-None verified in this run.
+**Movers.** AMD fell after Hunterbrook Capital disclosed a short position citing alleged export-control breaches; AMD denied wrongdoing (CNBC).
 
-## Desk call
-None. The evidence does not support a call without a known cause.
+**News**
+- [Stocks making the biggest moves Thursday (CNBC)](https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html)
+- [Stock market news for Nov. 19, 2026 (CNBC)](https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html)
+- [Stock Market Today: Dow, S&P Live Updates (Bloomberg)](https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates)
 
-## Lessons
-No calls needed lessons this run.
+**Desk call.** None this run; evidence too noisy to support one.
 
-## Watch next
-Trusted coverage of the AMD drop and VIX jump; SMH above 452; NVDA above 149; VIX above 27.
+**Lessons.** No graded calls needed lessons.
