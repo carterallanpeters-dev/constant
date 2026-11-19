@@ -1,22 +1,29 @@
-# Cloud Desk Journal: 2026-11-19, open session
+# Cloud Desk: midday journal, 2026-11-19
 
-**Summary:** Early Thursday trading is mixed. SPY 726.80 (-0.47%), QQQ 657.50 (-0.30%), SMH 459.30 (-0.05%). NVDA is up 0.50% at 151.71. AMD is the outlier at 488.64, down 7.83%. VIX 24.16 (-1.63%). Yahoo data may be delayed up to 15 minutes.
+Data: Yahoo Finance, retrieved 2026-11-19 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+
+## Summary
+Broad risk-off turn since the open. SPY 722.06 (-1.11%), QQQ 651.80 (-1.17%), SMH 454.61 (-1.07%). AMD is the largest decliner at 483.34 (-8.83%). The VIX jumped to 27.37 (+11.44%). No trusted-source article explaining the moves was found.
 
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 151.71 | +0.50 |
-| SPY | 726.80 | -0.47 |
-| QQQ | 657.50 | -0.30 |
-| SMH | 459.30 | -0.05 |
-| AMD | 488.64 | -7.83 |
-| AVGO | 353.95 | -0.03 |
-| TSM | 361.52 | -0.30 |
-| ^VIX | 24.16 | -1.63 |
+| NVDA | 149.06 | -1.26 |
+| SPY | 722.06 | -1.11 |
+| QQQ | 651.80 | -1.17 |
+| SMH | 454.61 | -1.07 |
+| AMD | 483.34 | -8.83 |
+| AVGO | 349.65 | -1.24 |
+| TSM | 357.43 | -1.43 |
+| ^VIX | 27.37 | +11.44 |
 
-**Movers:** AMD's -7.83% is unconfirmed: no trusted-source coverage found and a second quote request failed.
+## News
+None verified in this run.
 
-**News:** none verified this run.
+## Desk call
+None. The evidence does not support a call without a known cause.
 
-**Desk call:** none.
+## Lessons
+No calls needed lessons this run.
 
-**Lessons:** no calls needed lessons (record: 1 graded, 1 right).
+## Watch next
+Trusted coverage of the AMD drop and VIX jump; SMH above 452; NVDA above 149; VIX above 27.

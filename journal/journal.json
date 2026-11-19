@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T15:40:36+00:00",
+  "updated": "2026-11-19T18:41:08+00:00",
   "entries": [
     {
       "session": "close",
@@ -2007,6 +2007,57 @@
       "watch_next": "Whether AMD's drop is confirmed by a second source and what drove it; whether NVDA holds near 152; SMH relative to 452; whether the VIX falls below 22. No trusted-source news items were verified in this run.",
       "desk_call": null,
       "at": "2026-11-19T15:40:36+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-19 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows a broad risk-off turn since the open. SPY is 722.06 (-1.11%), QQQ 651.80 (-1.17%) and SMH 454.61 (-1.07%). NVDA is 149.06 (-1.26%), AVGO 349.65 (-1.24%) and TSM 357.43 (-1.43%). AMD is the largest decliner at 483.34 (-8.83%). The VIX jumped to 27.37 (+11.44%), up from about 24.2 at the open. I could not find a trusted-source article explaining today's moves.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 149.06,
+          "chg_pct": -1.26
+        },
+        {
+          "sym": "SPY",
+          "price": 722.06,
+          "chg_pct": -1.11
+        },
+        {
+          "sym": "QQQ",
+          "price": 651.8,
+          "chg_pct": -1.17
+        },
+        {
+          "sym": "SMH",
+          "price": 454.61,
+          "chg_pct": -1.07
+        },
+        {
+          "sym": "AMD",
+          "price": 483.34,
+          "chg_pct": -8.83
+        },
+        {
+          "sym": "AVGO",
+          "price": 349.65,
+          "chg_pct": -1.24
+        },
+        {
+          "sym": "TSM",
+          "price": 357.43,
+          "chg_pct": -1.43
+        },
+        {
+          "sym": "^VIX",
+          "price": 27.37,
+          "chg_pct": 11.44
+        }
+      ],
+      "movers": "AMD (-8.83%) is the biggest move and the VIX (+11.44%) the biggest volatility signal. The cause of the AMD drop is still unconfirmed by any trusted source I could find.",
+      "news": [],
+      "watch_next": "Whether trusted coverage emerges explaining the AMD decline and the VIX jump; whether SMH holds above 452 and NVDA above 149; whether the VIX stays above 27. No trusted-source news items were verified in this run.",
+      "desk_call": null,
+      "at": "2026-11-19T18:41:08+00:00"
     }
   ],
   "calls": [
