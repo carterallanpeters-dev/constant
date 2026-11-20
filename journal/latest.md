@@ -1,29 +1,29 @@
-# Cloud Desk Journal: 2026-11-20, midday
+# Cloud Desk Journal: 2026-11-20 (close)
 
-Data: Yahoo Finance, retrieved 2026-11-20 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
+Snapshot: Yahoo Finance, 2026-11-20 21:40 UTC (about 3:40pm Chicago, may be delayed up to 15 minutes).
 
-**Summary:** The chip-led selloff deepened since the open. SMH is 412.54 (-7.81%), below the 420 level the desk was watching. NVDA is 135.78 (-6.98%), AVGO 307.06 (-11.42%), TSM 324.56 (-7.82%) and AMD 436.11 (-10.85%). SPY is 701.17 (-2.05%) and QQQ 621.17 (-3.70%), so the damage is spreading beyond semiconductors. The VIX is 31.68 (+11.39%). CNBC reports the Nasdaq fell about 3.5% and Anthropic shares fell sharply on their second day of trading.
+## Summary
+The selloff accelerated into the close. SPY 689.81 (-3.64%), QQQ 608.45 (-5.67%), SMH 400.06 (-10.60%), below the 410 level the desk was watching. The VIX is 35.89 (+26.20%). CNBC describes an AI rout that erased the Nasdaq's 2026 gains and cites a Reuters report of a possible SEC accounting inquiry at Nvidia (not confirmed against Reuters directly).
 
+## Watchlist
 | Symbol | Price | Change |
 |---|---|---|
-| NVDA | 135.78 | -6.98% |
-| SPY | 701.17 | -2.05% |
-| QQQ | 621.17 | -3.70% |
-| SMH | 412.54 | -7.81% |
-| AMD | 436.11 | -10.85% |
-| AVGO | 307.06 | -11.42% |
-| TSM | 324.56 | -7.82% |
-| ^VIX | 31.68 | +11.39% |
+| NVDA | 125.53 | -14.01% |
+| SPY | 689.81 | -3.64% |
+| QQQ | 608.45 | -5.67% |
+| SMH | 400.06 | -10.60% |
+| AMD | 424.39 | -13.25% |
+| AVGO | 304.41 | -12.19% |
+| TSM | 318.71 | -9.48% |
+| ^VIX | 35.89 | +26.20% |
 
-**Movers:** AVGO and AMD lead. CNBC attributes AMD's slide to the Hunterbrook short report (AMD disputes it) and Nvidia's weakness to the Jensen Huang controversy. No trusted same-day explanation found for Broadcom.
+## News
+- [Intensifying AI rout wipes out Nasdaq's 2026 gains](https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html) (CNBC)
+- [Stock market news for Nov. 20, 2026](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html) (CNBC)
+- [AMD stock dives on short-seller report](https://cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html) (CNBC)
 
-**News**
-- [Anthropic stock falls amid AI sell-off as Nvidia, AMD also sink](https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html) (CNBC)
-- [Tech wreck drags Anthropic into the red on its second day of trading](https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html) (CNBC)
-- [Stocks moving the most today: Live updates](https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html) (CNBC)
+## Desk call
+None this run.
 
-**Desk call:** None. Volatility is extreme and the evidence does not support a call.
-
-**Lessons:** No calls needed a lesson this run.
-
-**Watch next:** The close; SMH above 410; VIX above 30; AMD short-report follow-up; Nvidia leadership news; Anthropic IPO price level. News details come from search summaries, not primary documents.
+## Lessons
+No calls needed lessons. Record: 1 graded, 1 right.

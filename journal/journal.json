@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:40:56+00:00",
+  "updated": "2026-11-20T21:40:39+00:00",
   "entries": [
     {
       "session": "close",
@@ -2259,6 +2259,73 @@
       "watch_next": "The close: whether SMH holds above 410 and the VIX stays above 30; any AMD response or regulatory follow-up on the short report; Nvidia leadership news; the Anthropic IPO price level; Broadcom-specific news. News details come from search summaries and are not confirmed against primary documents.",
       "desk_call": null,
       "at": "2026-11-20T18:40:56+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-20 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows the selloff accelerating into the close. SPY is 689.81 (-3.64%), QQQ 608.45 (-5.67%) and SMH 400.06 (-10.60%), below the 410 level the desk was watching. NVDA is 125.53 (-14.01%), AMD 424.39 (-13.25%), AVGO 304.41 (-12.19%) and TSM 318.71 (-9.48%). The VIX is 35.89 (+26.20%), up from 31.68 at midday. CNBC describes an intensifying AI rout that has erased the Nasdaq's 2026 gains; CNBC's live blog cited a Reuters report that the SEC is exploring possible accounting issues at Nvidia, which I could not confirm against Reuters directly.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 125.53,
+          "chg_pct": -14.01
+        },
+        {
+          "sym": "SPY",
+          "price": 689.81,
+          "chg_pct": -3.64
+        },
+        {
+          "sym": "QQQ",
+          "price": 608.45,
+          "chg_pct": -5.67
+        },
+        {
+          "sym": "SMH",
+          "price": 400.06,
+          "chg_pct": -10.6
+        },
+        {
+          "sym": "AMD",
+          "price": 424.39,
+          "chg_pct": -13.25
+        },
+        {
+          "sym": "AVGO",
+          "price": 304.41,
+          "chg_pct": -12.19
+        },
+        {
+          "sym": "TSM",
+          "price": 318.71,
+          "chg_pct": -9.48
+        },
+        {
+          "sym": "^VIX",
+          "price": 35.89,
+          "chg_pct": 26.2
+        }
+      ],
+      "movers": "NVDA (-14.01%) and AMD (-13.25%) lead the decline, with AVGO (-12.19%) and SMH (-10.60%) close behind. The VIX (+26.20%) is the largest percentage mover. CNBC cites continued pressure on Nvidia from leadership turmoil and a reported SEC accounting inquiry, and on AMD from the Hunterbrook short report, which AMD disputes.",
+      "news": [
+        {
+          "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html"
+        },
+        {
+          "title": "Stock market news for Nov. 20, 2026",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "AMD stock dives on short-seller report of alleged China exposure",
+          "source": "CNBC",
+          "url": "https://cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        }
+      ],
+      "watch_next": "Monday's open: whether SMH holds 400 and the VIX stays above 35; any Nvidia statement on the reported SEC inquiry or leadership changes; AMD's response to the short report; whether selling spreads beyond tech. News details come from search summaries, not primary documents, and closing figures may differ from this late-afternoon snapshot.",
+      "desk_call": null,
+      "at": "2026-11-20T21:40:39+00:00"
     }
   ],
   "calls": [
