@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:41:05+00:00",
+  "updated": "2026-11-20T18:40:56+00:00",
   "entries": [
     {
       "session": "close",
@@ -2192,6 +2192,73 @@
       "watch_next": "Whether SMH holds near 420 and NVDA near 137; whether the VIX closes above 30; any Nvidia leadership or subpoena developments and AMD's response to the short report; a trusted close report for today. News details come from search summaries and are not confirmed against primary documents.",
       "desk_call": null,
       "at": "2026-11-20T15:41:05+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-20 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the chip-led selloff deepening since the open. SMH is 412.54 (-7.81%), down from 419.92 at the open and well below the 420 level the desk was watching. NVDA is 135.78 (-6.98%), AVGO 307.06 (-11.42%), TSM 324.56 (-7.82%) and AMD 436.11 (-10.85%). SPY is 701.17 (-2.05%) and QQQ 621.17 (-3.70%), so the damage is spreading beyond semiconductors. The VIX is 31.68 (+11.39%), up from 29.90 at the open. CNBC reports the Nasdaq fell about 3.5% and Anthropic shares fell sharply on their second day of trading.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 135.78,
+          "chg_pct": -6.98
+        },
+        {
+          "sym": "SPY",
+          "price": 701.17,
+          "chg_pct": -2.05
+        },
+        {
+          "sym": "QQQ",
+          "price": 621.17,
+          "chg_pct": -3.7
+        },
+        {
+          "sym": "SMH",
+          "price": 412.54,
+          "chg_pct": -7.81
+        },
+        {
+          "sym": "AMD",
+          "price": 436.11,
+          "chg_pct": -10.85
+        },
+        {
+          "sym": "AVGO",
+          "price": 307.06,
+          "chg_pct": -11.42
+        },
+        {
+          "sym": "TSM",
+          "price": 324.56,
+          "chg_pct": -7.82
+        },
+        {
+          "sym": "^VIX",
+          "price": 31.68,
+          "chg_pct": 11.39
+        }
+      ],
+      "movers": "AVGO (-11.42%) and AMD (-10.85%) lead the decline. CNBC attributes AMD's slide to the Hunterbrook short report, which AMD disputes, and Nvidia's weakness to the controversy around Jensen Huang. I found no trusted same-day explanation for the size of the Broadcom drop.",
+      "news": [
+        {
+          "title": "Anthropic stock falls amid AI sell-off as Nvidia, AMD also sink",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+        },
+        {
+          "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html"
+        },
+        {
+          "title": "Stocks moving the most today: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html"
+        }
+      ],
+      "watch_next": "The close: whether SMH holds above 410 and the VIX stays above 30; any AMD response or regulatory follow-up on the short report; Nvidia leadership news; the Anthropic IPO price level; Broadcom-specific news. News details come from search summaries and are not confirmed against primary documents.",
+      "desk_call": null,
+      "at": "2026-11-20T18:40:56+00:00"
     }
   ],
   "calls": [
