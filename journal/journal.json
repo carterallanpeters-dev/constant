@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:40:56+00:00",
+  "updated": "2026-11-20T15:41:05+00:00",
   "entries": [
     {
       "session": "close",
@@ -2125,6 +2125,73 @@
       "watch_next": "Whether SMH can reclaim 452 or extends lower; whether the VIX holds above 28; follow-up on the AMD short report and any AMD response or regulatory comment; trading in the newly listed Anthropic shares and AI-sector sentiment. News details come from search summaries and are not confirmed against primary documents.",
       "desk_call": null,
       "at": "2026-11-19T21:40:56+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-20 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows a sharp chip-led selloff at the open. SMH is 419.92 (-6.16%), NVDA 137.19 (-6.02%), AVGO 318.79 (-8.04%), TSM 329.61 (-6.38%) and AMD 446.51 (-8.72%). SPY is 708.95 (-0.97%) and QQQ 630.11 (-2.31%), so the damage is concentrated in semiconductors. The VIX is 29.90 (+5.13%), extending Thursday's jump. CNBC's search summaries describe Nvidia at its lowest level in more than a year amid fallout from CEO Jensen Huang's resignation and a California subpoena, plus the AMD short-seller report from Thursday.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 137.19,
+          "chg_pct": -6.02
+        },
+        {
+          "sym": "SPY",
+          "price": 708.95,
+          "chg_pct": -0.97
+        },
+        {
+          "sym": "QQQ",
+          "price": 630.11,
+          "chg_pct": -2.31
+        },
+        {
+          "sym": "SMH",
+          "price": 419.92,
+          "chg_pct": -6.16
+        },
+        {
+          "sym": "AMD",
+          "price": 446.51,
+          "chg_pct": -8.72
+        },
+        {
+          "sym": "AVGO",
+          "price": 318.79,
+          "chg_pct": -8.04
+        },
+        {
+          "sym": "TSM",
+          "price": 329.61,
+          "chg_pct": -6.38
+        },
+        {
+          "sym": "^VIX",
+          "price": 29.9,
+          "chg_pct": 5.13
+        }
+      ],
+      "movers": "AMD (-8.72%) and AVGO (-8.04%) lead the decline, with NVDA, TSM and SMH all down more than 6%. Coverage I found points to Nvidia leadership and China-export concerns and the AMD short report; I could not find a trusted article that explains the full size of today's move.",
+      "news": [
+        {
+          "title": "AMD stock dives on short-seller report of alleged China exposure",
+          "source": "CNBC",
+          "url": "https://cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        },
+        {
+          "title": "Nvidia's turmoil is prompting a rotation across chip stocks. Here's what we know",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
+        },
+        {
+          "title": "Stock market today: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        }
+      ],
+      "watch_next": "Whether SMH holds near 420 and NVDA near 137; whether the VIX closes above 30; any Nvidia leadership or subpoena developments and AMD's response to the short report; a trusted close report for today. News details come from search summaries and are not confirmed against primary documents.",
+      "desk_call": null,
+      "at": "2026-11-20T15:41:05+00:00"
     }
   ],
   "calls": [
