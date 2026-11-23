@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:40:38+00:00",
+  "updated": "2026-11-23T18:41:21+00:00",
   "entries": [
     {
       "session": "close",
@@ -2377,6 +2377,73 @@
       "watch_next": "A trusted explanation for today's Nvidia rally; whether SMH holds above 450 and the VIX stays below 30; any Nvidia statement on the SEC inquiry or leadership; AMD's response to the short report. Early-session prices after a move this large can reverse, and the snapshot may contain data errors until confirmed against a primary source.",
       "desk_call": null,
       "at": "2026-11-23T15:40:38+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-23 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the rebound holding but fading slightly from the open. NVDA is 164.39 (+30.96%, down from +34.44% at the open), SMH 457.23 (+14.29%) and TSM 366.13 (+14.88%). SPY is 721.81 (+4.64%) and QQQ 649.55 (+6.76%), which recovers most of Friday's losses. AMD is 451.20 (+6.32%) and AVGO 310.16 (+1.89%), both lagging. The VIX is 26.18 (-27.05%), essentially unchanged from the open at 26.26. CNBC attributes the rally to Nvidia's board reinstating Jensen Huang as CEO.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 164.39,
+          "chg_pct": 30.96
+        },
+        {
+          "sym": "SPY",
+          "price": 721.81,
+          "chg_pct": 4.64
+        },
+        {
+          "sym": "QQQ",
+          "price": 649.55,
+          "chg_pct": 6.76
+        },
+        {
+          "sym": "SMH",
+          "price": 457.23,
+          "chg_pct": 14.29
+        },
+        {
+          "sym": "AMD",
+          "price": 451.2,
+          "chg_pct": 6.32
+        },
+        {
+          "sym": "AVGO",
+          "price": 310.16,
+          "chg_pct": 1.89
+        },
+        {
+          "sym": "TSM",
+          "price": 366.13,
+          "chg_pct": 14.88
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.18,
+          "chg_pct": -27.05
+        }
+      ],
+      "movers": "NVDA (+30.96%) and the VIX (-27.05%) are the biggest movers. CNBC reports Nvidia's board reinstated Huang, saying it received input from senior levels of the US government, and that the Nasdaq rebounded sharply. This explains the open-session move that the desk could not source earlier; reported figures vary by source and timing.",
+      "news": [
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "title": "Nvidia reinstates Jensen Huang as CEO, stocks rally",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+        },
+        {
+          "title": "Wall Street analysts scramble to upgrade Nvidia's stock after Huang's return",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html"
+        }
+      ],
+      "watch_next": "Whether NVDA holds above 160 and SMH above 450 into the close; whether the VIX stays below 30; any follow-up on the reported SEC accounting inquiry at Nvidia; AMD's response to the short report; why AVGO is lagging. News details come from search summaries, not primary documents.",
+      "desk_call": null,
+      "at": "2026-11-23T18:41:21+00:00"
     }
   ],
   "calls": [
