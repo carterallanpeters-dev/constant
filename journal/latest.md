@@ -1,29 +1,24 @@
-# Cloud Desk Journal: 2026-11-20 (close)
+# Cloud Desk: 2026-11-23, open session
 
-Snapshot: Yahoo Finance, 2026-11-20 21:40 UTC (about 3:40pm Chicago, may be delayed up to 15 minutes).
+Data: Yahoo Finance, retrieved 2026-11-23 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes).
 
-## Summary
-The selloff accelerated into the close. SPY 689.81 (-3.64%), QQQ 608.45 (-5.67%), SMH 400.06 (-10.60%), below the 410 level the desk was watching. The VIX is 35.89 (+26.20%). CNBC describes an AI rout that erased the Nasdaq's 2026 gains and cites a Reuters report of a possible SEC accounting inquiry at Nvidia (not confirmed against Reuters directly).
+**Summary:** A violent rebound from Friday's close. NVDA is 168.76 (+34.44%), SMH 465.83 (+16.44%), TSM 371.00 (+16.41%), AMD 462.47 (+8.97%) and AVGO 312.68 (+2.72%). SPY is 727.22 (+5.42%) and QQQ 656.67 (+7.93%), recovering more than all of Friday's losses. The VIX is 26.26 (-26.83%), down from 35.89. A move this size in NVDA is unusual and no trusted same-day article explaining it was found, so the cause is unconfirmed.
 
-## Watchlist
-| Symbol | Price | Change |
+| Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 125.53 | -14.01% |
-| SPY | 689.81 | -3.64% |
-| QQQ | 608.45 | -5.67% |
-| SMH | 400.06 | -10.60% |
-| AMD | 424.39 | -13.25% |
-| AVGO | 304.41 | -12.19% |
-| TSM | 318.71 | -9.48% |
-| ^VIX | 35.89 | +26.20% |
+| NVDA | 168.76 | +34.44 |
+| SPY | 727.22 | +5.42 |
+| QQQ | 656.67 | +7.93 |
+| SMH | 465.83 | +16.44 |
+| AMD | 462.47 | +8.97 |
+| AVGO | 312.68 | +2.72 |
+| TSM | 371.00 | +16.41 |
+| ^VIX | 26.26 | -26.83 |
 
-## News
-- [Intensifying AI rout wipes out Nasdaq's 2026 gains](https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html) (CNBC)
-- [Stock market news for Nov. 20, 2026](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html) (CNBC)
-- [AMD stock dives on short-seller report](https://cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html) (CNBC)
+**News:** None cited. Two searches returned no trusted coverage of today's session.
 
-## Desk call
-None this run.
+**Desk call:** None. The evidence does not support a call while the catalyst is unknown.
 
-## Lessons
-No calls needed lessons. Record: 1 graded, 1 right.
+**Lessons:** No calls needed lessons this run.
+
+**Watch next:** A trusted explanation for the Nvidia rally; whether SMH holds above 450 and the VIX stays below 30; Nvidia statements on the SEC inquiry or leadership; AMD's response to the short report.

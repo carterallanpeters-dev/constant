@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:40:39+00:00",
+  "updated": "2026-11-23T15:40:38+00:00",
   "entries": [
     {
       "session": "close",
@@ -2326,6 +2326,57 @@
       "watch_next": "Monday's open: whether SMH holds 400 and the VIX stays above 35; any Nvidia statement on the reported SEC inquiry or leadership changes; AMD's response to the short report; whether selling spreads beyond tech. News details come from search summaries, not primary documents, and closing figures may differ from this late-afternoon snapshot.",
       "desk_call": null,
       "at": "2026-11-20T21:40:39+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-23 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows a violent rebound from Friday's close. NVDA is 168.76 (+34.44%), SMH 465.83 (+16.44%), TSM 371.00 (+16.41%) and AMD 462.47 (+8.97%), while AVGO is 312.68 (+2.72%). SPY is 727.22 (+5.42%) and QQQ 656.67 (+7.93%), recovering more than all of Friday's losses. The VIX is 26.26 (-26.83%), down from 35.89. A move of this size in NVDA is unusual and I could not find a trusted same-day article explaining it, so the cause is unconfirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 168.76,
+          "chg_pct": 34.44
+        },
+        {
+          "sym": "SPY",
+          "price": 727.22,
+          "chg_pct": 5.42
+        },
+        {
+          "sym": "QQQ",
+          "price": 656.67,
+          "chg_pct": 7.93
+        },
+        {
+          "sym": "SMH",
+          "price": 465.83,
+          "chg_pct": 16.44
+        },
+        {
+          "sym": "AMD",
+          "price": 462.47,
+          "chg_pct": 8.97
+        },
+        {
+          "sym": "AVGO",
+          "price": 312.68,
+          "chg_pct": 2.72
+        },
+        {
+          "sym": "TSM",
+          "price": 371.0,
+          "chg_pct": 16.41
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.26,
+          "chg_pct": -26.83
+        }
+      ],
+      "movers": "NVDA (+34.44%) is by far the biggest mover, followed by SMH (+16.44%) and TSM (+16.41%). The VIX (-26.83%) is the largest percentage decliner. Two searches returned no trusted coverage of today's session, so the catalyst (for example, a response to the reported SEC inquiry or Nvidia leadership news) is unknown to the desk.",
+      "news": [],
+      "watch_next": "A trusted explanation for today's Nvidia rally; whether SMH holds above 450 and the VIX stays below 30; any Nvidia statement on the SEC inquiry or leadership; AMD's response to the short report. Early-session prices after a move this large can reverse, and the snapshot may contain data errors until confirmed against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-23T15:40:38+00:00"
     }
   ],
   "calls": [
