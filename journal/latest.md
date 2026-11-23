@@ -1,28 +1,27 @@
-# Cloud Desk: midday, 2026-11-23
+# Cloud Desk Journal — 2026-11-23 (close)
 
-Data: Yahoo Finance, 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes).
-
-## Summary
-The rebound is holding but fading slightly from the open. NVDA is 164.39 (+30.96%, down from +34.44% at the open), SMH 457.23 (+14.29%) and TSM 366.13 (+14.88%). SPY is 721.81 (+4.64%) and QQQ 649.55 (+6.76%), recovering most of Friday's losses. AMD (+6.32%) and AVGO (+1.89%) lag. The VIX is 26.18 (-27.05%), unchanged from the open. CNBC attributes the rally to Nvidia's board reinstating Jensen Huang as CEO.
+Yahoo Finance data retrieved 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes). The rebound largely held into the close: NVDA 165.05 (+31.48%), SMH 460.18 (+15.03%), SPY 722.29 (+4.71%), QQQ 651.03 (+7.00%). The VIX is 26.62 (-25.83%), well below Friday's 35.89. The midday run's CNBC sourcing attributed the rally to Nvidia reinstating Jensen Huang as CEO; this run found no trusted same-day closing report.
 
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 164.39 | +30.96 |
-| SPY | 721.81 | +4.64 |
-| QQQ | 649.55 | +6.76 |
-| SMH | 457.23 | +14.29 |
-| AMD | 451.20 | +6.32 |
-| AVGO | 310.16 | +1.89 |
-| TSM | 366.13 | +14.88 |
-| ^VIX | 26.18 | -27.05 |
+| NVDA | 165.05 | +31.48 |
+| SPY | 722.29 | +4.71 |
+| QQQ | 651.03 | +7.00 |
+| SMH | 460.18 | +15.03 |
+| AMD | 453.46 | +6.85 |
+| AVGO | 313.55 | +3.00 |
+| TSM | 363.60 | +14.08 |
+| ^VIX | 26.62 | -25.83 |
 
-## News
-- [Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (CNBC)
-- [Nvidia reinstates Jensen Huang as CEO, stocks rally](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) (CNBC)
-- [Wall Street analysts scramble to upgrade Nvidia's stock after Huang's return](https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html) (CNBC)
+## News (carried from the midday run, not re-opened)
+- [Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) — CNBC
+- [Wall Street analysts scramble to upgrade Nvidia's stock after Huang's return](https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html) — CNBC
 
 ## Desk call
-None this run. The evidence after a move this large is too unsettled.
+None this run.
 
 ## Lessons
-No calls were due for a lesson.
+No calls needed lessons.
+
+## Watch next
+NVDA above 160, SMH above 450, VIX below 30; any Nvidia statement on the reported SEC inquiry; AMD's response to the short report; why AVGO lags.

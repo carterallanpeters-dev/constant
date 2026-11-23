@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:41:21+00:00",
+  "updated": "2026-11-23T21:40:25+00:00",
   "entries": [
     {
       "session": "close",
@@ -2444,6 +2444,68 @@
       "watch_next": "Whether NVDA holds above 160 and SMH above 450 into the close; whether the VIX stays below 30; any follow-up on the reported SEC accounting inquiry at Nvidia; AMD's response to the short report; why AVGO is lagging. News details come from search summaries, not primary documents.",
       "desk_call": null,
       "at": "2026-11-23T18:41:21+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-23 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows the rebound largely holding into the close. NVDA is 165.05 (+31.48%), up slightly from 164.39 at midday, and SMH is 460.18 (+15.03%). SPY is 722.29 (+4.71%) and QQQ 651.03 (+7.00%), recovering most of Friday's losses. TSM is 363.60 (+14.08%), AMD 453.46 (+6.85%) and AVGO 313.55 (+3.00%). The VIX is 26.62 (-25.83%), slightly above midday's 26.18 but well below Friday's 35.89. The midday run's CNBC sourcing attributed the rally to Nvidia's board reinstating Jensen Huang as CEO.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 165.05,
+          "chg_pct": 31.48
+        },
+        {
+          "sym": "SPY",
+          "price": 722.29,
+          "chg_pct": 4.71
+        },
+        {
+          "sym": "QQQ",
+          "price": 651.03,
+          "chg_pct": 7.0
+        },
+        {
+          "sym": "SMH",
+          "price": 460.18,
+          "chg_pct": 15.03
+        },
+        {
+          "sym": "AMD",
+          "price": 453.46,
+          "chg_pct": 6.85
+        },
+        {
+          "sym": "AVGO",
+          "price": 313.55,
+          "chg_pct": 3.0
+        },
+        {
+          "sym": "TSM",
+          "price": 363.6,
+          "chg_pct": 14.08
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.62,
+          "chg_pct": -25.83
+        }
+      ],
+      "movers": "NVDA (+31.48%) and SMH (+15.03%) remain the biggest movers, with TSM (+14.08%) close behind; the VIX (-25.83%) is the largest decliner. The close-session news search returned no trusted same-day closing report, so the Huang explanation rests on the midday run's CNBC articles, which this run did not re-open.",
+      "news": [
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "title": "Wall Street analysts scramble to upgrade Nvidia's stock after Huang's return",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html"
+        }
+      ],
+      "watch_next": "Whether NVDA holds above 160 and SMH above 450 at tomorrow's open; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry; AMD's response to the short report; why AVGO lags. News items are carried from the midday run and come from search summaries, not primary documents.",
+      "desk_call": null,
+      "at": "2026-11-23T21:40:25+00:00"
     }
   ],
   "calls": [
