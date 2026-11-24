@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:40:45+00:00",
+  "updated": "2026-11-24T18:40:44+00:00",
   "entries": [
     {
       "session": "close",
@@ -2557,6 +2557,57 @@
       "watch_next": "A trusted explanation for today's chip sell-off; whether NVDA holds above 150 and SMH above 420; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry. Early-session prices can reverse, and the snapshot reported a crumb rate-limit (HTTP 429) warning, so figures should be rechecked against a primary source.",
       "desk_call": null,
       "at": "2026-11-24T15:40:45+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "Yahoo Finance data retrieved 2026-11-24 18:40 UTC (about 12:40pm Chicago; may be delayed up to 15 minutes) shows the chip sell-off easing slightly from the open but still deep. NVDA is 154.16 (-6.59%, versus -7.21% at the open), SMH 430.39 (-6.47%), AMD 415.45 (-8.38%) and TSM 349.92 (-3.76%). AVGO is 304.91 (-2.76%). SPY is 719.18 (-0.43%) and QQQ 639.69 (-1.74%), both off their morning lows. The VIX is 26.48 (-0.53%), down from 28.43 at the open. Searches again found no trusted same-day report explaining the decline, so the cause is unconfirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 154.16,
+          "chg_pct": -6.59
+        },
+        {
+          "sym": "SPY",
+          "price": 719.18,
+          "chg_pct": -0.43
+        },
+        {
+          "sym": "QQQ",
+          "price": 639.69,
+          "chg_pct": -1.74
+        },
+        {
+          "sym": "SMH",
+          "price": 430.39,
+          "chg_pct": -6.47
+        },
+        {
+          "sym": "AMD",
+          "price": 415.45,
+          "chg_pct": -8.38
+        },
+        {
+          "sym": "AVGO",
+          "price": 304.91,
+          "chg_pct": -2.76
+        },
+        {
+          "sym": "TSM",
+          "price": 349.92,
+          "chg_pct": -3.76
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.48,
+          "chg_pct": -0.53
+        }
+      ],
+      "movers": "AMD (-8.38%), NVDA (-6.59%) and SMH (-6.47%) are the biggest decliners; the sell-off is concentrated in semiconductors while SPY is down less than half a percent. Two searches returned no trusted coverage of today's session (only older-dated articles), so the catalyst is unknown to the desk.",
+      "news": [],
+      "watch_next": "A trusted explanation for the chip sell-off; whether NVDA holds above 150 and SMH above 420 into the close; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry. Prices come from a delayed free feed and should be rechecked against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-24T18:40:44+00:00"
     }
   ],
   "calls": [
