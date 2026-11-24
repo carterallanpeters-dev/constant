@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:40:25+00:00",
+  "updated": "2026-11-24T15:40:45+00:00",
   "entries": [
     {
       "session": "close",
@@ -2506,6 +2506,57 @@
       "watch_next": "Whether NVDA holds above 160 and SMH above 450 at tomorrow's open; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry; AMD's response to the short report; why AVGO lags. News items are carried from the midday run and come from search summaries, not primary documents.",
       "desk_call": null,
       "at": "2026-11-23T21:40:25+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-24 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows the Monday rebound reversing sharply. NVDA is 153.15 (-7.21%), SMH 425.44 (-7.55%), AMD 405.43 (-10.59%) and TSM 342.72 (-5.74%), while AVGO is 303.52 (-3.20%). SPY is 715.83 (-0.89%) and QQQ 636.01 (-2.31%). The VIX is 28.43 (+6.80%), up from 26.62 at yesterday's close. Semiconductors are leading the decline, giving back a large part of yesterday's gains. The cause is unconfirmed, because searches found no trusted same-day report.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 153.15,
+          "chg_pct": -7.21
+        },
+        {
+          "sym": "SPY",
+          "price": 715.83,
+          "chg_pct": -0.89
+        },
+        {
+          "sym": "QQQ",
+          "price": 636.01,
+          "chg_pct": -2.31
+        },
+        {
+          "sym": "SMH",
+          "price": 425.44,
+          "chg_pct": -7.55
+        },
+        {
+          "sym": "AMD",
+          "price": 405.43,
+          "chg_pct": -10.59
+        },
+        {
+          "sym": "AVGO",
+          "price": 303.52,
+          "chg_pct": -3.2
+        },
+        {
+          "sym": "TSM",
+          "price": 342.72,
+          "chg_pct": -5.74
+        },
+        {
+          "sym": "^VIX",
+          "price": 28.43,
+          "chg_pct": 6.8
+        }
+      ],
+      "movers": "AMD (-10.59%), SMH (-7.55%) and NVDA (-7.21%) are the biggest decliners; the VIX is up 6.80%. Two searches returned no trusted coverage of today's session, so the catalyst is unknown to the desk.",
+      "news": [],
+      "watch_next": "A trusted explanation for today's chip sell-off; whether NVDA holds above 150 and SMH above 420; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry. Early-session prices can reverse, and the snapshot reported a crumb rate-limit (HTTP 429) warning, so figures should be rechecked against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-24T15:40:45+00:00"
     }
   ],
   "calls": [

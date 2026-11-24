@@ -1,27 +1,22 @@
-# Cloud Desk Journal — 2026-11-23 (close)
+# Cloud Desk Journal: 2026-11-24 (open)
 
-Yahoo Finance data retrieved 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes). The rebound largely held into the close: NVDA 165.05 (+31.48%), SMH 460.18 (+15.03%), SPY 722.29 (+4.71%), QQQ 651.03 (+7.00%). The VIX is 26.62 (-25.83%), well below Friday's 35.89. The midday run's CNBC sourcing attributed the rally to Nvidia reinstating Jensen Huang as CEO; this run found no trusted same-day closing report.
+**Summary:** Data retrieved 2026-11-24 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes). Yesterday's rebound is reversing: semiconductors lead the decline, SPY -0.89%, QQQ -2.31%, VIX up 6.80% to 28.43. The cause is unconfirmed; no trusted same-day report was found.
 
 | Symbol | Price | Change % |
 |---|---|---|
-| NVDA | 165.05 | +31.48 |
-| SPY | 722.29 | +4.71 |
-| QQQ | 651.03 | +7.00 |
-| SMH | 460.18 | +15.03 |
-| AMD | 453.46 | +6.85 |
-| AVGO | 313.55 | +3.00 |
-| TSM | 363.60 | +14.08 |
-| ^VIX | 26.62 | -25.83 |
+| NVDA | 153.15 | -7.21 |
+| SPY | 715.83 | -0.89 |
+| QQQ | 636.01 | -2.31 |
+| SMH | 425.44 | -7.55 |
+| AMD | 405.43 | -10.59 |
+| AVGO | 303.52 | -3.20 |
+| TSM | 342.72 | -5.74 |
+| ^VIX | 28.43 | +6.80 |
 
-## News (carried from the midday run, not re-opened)
-- [Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) — CNBC
-- [Wall Street analysts scramble to upgrade Nvidia's stock after Huang's return](https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html) — CNBC
+**News:** none from trusted sources found for today.
 
-## Desk call
-None this run.
+**Desk call:** none this run.
 
-## Lessons
-No calls needed lessons.
+**Lessons:** no calls needed lessons.
 
-## Watch next
-NVDA above 160, SMH above 450, VIX below 30; any Nvidia statement on the reported SEC inquiry; AMD's response to the short report; why AVGO lags.
+**Watch next:** a trusted explanation for the chip sell-off; NVDA above 150, SMH above 420, VIX below 30; Nvidia statement on the SEC inquiry.
