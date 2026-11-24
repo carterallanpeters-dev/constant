@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:40:44+00:00",
+  "updated": "2026-11-24T21:41:20+00:00",
   "entries": [
     {
       "session": "close",
@@ -2608,6 +2608,73 @@
       "watch_next": "A trusted explanation for the chip sell-off; whether NVDA holds above 150 and SMH above 420 into the close; whether the VIX stays below 30; any Nvidia statement on the reported SEC accounting inquiry. Prices come from a delayed free feed and should be rechecked against a primary source.",
       "desk_call": null,
       "at": "2026-11-24T18:40:44+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-24 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows the chip sell-off holding into the close. NVDA is 155.38 (-5.86%), SMH 426.75 (-7.26%), AMD 413.27 (-8.86%), TSM 349.20 (-3.96%) and AVGO 301.08 (-3.98%). SPY is 718.78 (-0.49%) and QQQ 638.10 (-1.99%), so the damage is concentrated in semiconductors. The VIX is 26.36 (-0.98%), below the morning's 28.43. CNBC describes the move as Nvidia giving back part of Monday's rally that followed Jensen Huang's reinstatement as CEO, and Bloomberg cites doubts about the durability of the AI trade plus talk of fresh US tariffs.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 155.38,
+          "chg_pct": -5.86
+        },
+        {
+          "sym": "SPY",
+          "price": 718.78,
+          "chg_pct": -0.49
+        },
+        {
+          "sym": "QQQ",
+          "price": 638.1,
+          "chg_pct": -1.99
+        },
+        {
+          "sym": "SMH",
+          "price": 426.75,
+          "chg_pct": -7.26
+        },
+        {
+          "sym": "AMD",
+          "price": 413.27,
+          "chg_pct": -8.86
+        },
+        {
+          "sym": "AVGO",
+          "price": 301.08,
+          "chg_pct": -3.98
+        },
+        {
+          "sym": "TSM",
+          "price": 349.2,
+          "chg_pct": -3.96
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.36,
+          "chg_pct": -0.98
+        }
+      ],
+      "movers": "AMD (-8.86%), SMH (-7.26%) and NVDA (-5.86%) are the biggest decliners. CNBC's search summary also lists Micron (-10.97%) and Marvell (-9.10%) lower; those figures were not checked against the snapshot tool.",
+      "news": [
+        {
+          "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+        },
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for November 24, 2026",
+          "source": "Bloomberg",
+          "url": "https://bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+        }
+      ],
+      "watch_next": "Whether NVDA holds above 150 and SMH above 420 at tomorrow's open; whether the VIX stays below 30; any news on the proposed US tariffs; any Nvidia statement on the reported SEC accounting inquiry. News items come from search summaries, not opened articles, and the free price feed hit a rate limit (HTTP 429) warning.",
+      "desk_call": null,
+      "at": "2026-11-24T21:41:20+00:00"
     }
   ],
   "calls": [
