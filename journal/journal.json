@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:41:20+00:00",
+  "updated": "2026-11-25T15:40:34+00:00",
   "entries": [
     {
       "session": "close",
@@ -2675,6 +2675,57 @@
       "watch_next": "Whether NVDA holds above 150 and SMH above 420 at tomorrow's open; whether the VIX stays below 30; any news on the proposed US tariffs; any Nvidia statement on the reported SEC accounting inquiry. News items come from search summaries, not opened articles, and the free price feed hit a rate limit (HTTP 429) warning.",
       "desk_call": null,
       "at": "2026-11-24T21:41:20+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "Yahoo Finance data retrieved 2026-11-25 15:40 UTC (about 9:40am Chicago; may be delayed up to 15 minutes) shows the sell-off deepening for a third session. NVDA is 142.85 (-8.06%), SMH 398.55 (-6.61%), AMD 376.23 (-8.96%), TSM 325.73 (-6.72%) and AVGO 283.40 (-5.87%). The damage is no longer confined to chips: SPY is 699.84 (-2.64%) and QQQ 611.50 (-4.17%). The VIX is 34.05 (+29.17%), well above yesterday's close near 26.4 and above the 30 level the desk was watching. Two searches found no trusted report dated today, so the cause of the move is unconfirmed.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 142.85,
+          "chg_pct": -8.06
+        },
+        {
+          "sym": "SPY",
+          "price": 699.84,
+          "chg_pct": -2.64
+        },
+        {
+          "sym": "QQQ",
+          "price": 611.5,
+          "chg_pct": -4.17
+        },
+        {
+          "sym": "SMH",
+          "price": 398.55,
+          "chg_pct": -6.61
+        },
+        {
+          "sym": "AMD",
+          "price": 376.23,
+          "chg_pct": -8.96
+        },
+        {
+          "sym": "AVGO",
+          "price": 283.4,
+          "chg_pct": -5.87
+        },
+        {
+          "sym": "TSM",
+          "price": 325.73,
+          "chg_pct": -6.72
+        },
+        {
+          "sym": "^VIX",
+          "price": 34.05,
+          "chg_pct": 29.17
+        }
+      ],
+      "movers": "The VIX (+29.17%), AMD (-8.96%) and NVDA (-8.06%) are the largest moves. NVDA and SMH have broken below the 150 and 420 levels flagged yesterday, and QQQ is down more than 4%, so the sell-off has spread beyond semiconductors.",
+      "news": [],
+      "watch_next": "A trusted, dated explanation for today's decline (searches returned only older articles); whether the VIX stays above 30 into the close; whether SPY holds the 700 level; the market is closed tomorrow for Thanksgiving, so today's close carries into a long weekend. Prices come from a delayed free feed that hit a rate-limit warning (HTTP 429) and should be rechecked against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-25T15:40:34+00:00"
     }
   ],
   "calls": [
