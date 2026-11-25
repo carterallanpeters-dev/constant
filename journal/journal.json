@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:41:03+00:00",
+  "updated": "2026-11-25T21:40:35+00:00",
   "entries": [
     {
       "session": "close",
@@ -2777,6 +2777,57 @@
       "watch_next": "Whether the VIX holds below 30 and chip stocks hold their midday levels into the close; the US market is closed Thursday for Thanksgiving, so the close carries into a long weekend; a trusted, dated explanation for the decline. Prices come from a delayed free feed and should be rechecked against a primary source.",
       "desk_call": null,
       "at": "2026-11-25T18:41:03+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "Yahoo Finance data retrieved 2026-11-25 21:40 UTC (about 3:40pm Chicago; may be delayed up to 15 minutes) shows a sizable recovery from the morning lows ahead of the Thanksgiving closure. NVDA is 149.30 (-3.91%), up from 142.85 at the open session, and SMH is 422.46 (-1.01%) versus 398.55 at the open. SPY is 716.70 (-0.29%) and QQQ 633.93 (-0.65%), compared with -2.64% and -4.17% at the open. AMD is 406.03 (-1.75%), TSM 342.34 (-1.96%) and AVGO 300.86 (-0.07%). The VIX is 28.29 (+7.32%), down from 34.05 at the open but still above the 20s calm range. No dated trusted-source report for today was found, so no cause is asserted.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 149.3,
+          "chg_pct": -3.91
+        },
+        {
+          "sym": "SPY",
+          "price": 716.7,
+          "chg_pct": -0.29
+        },
+        {
+          "sym": "QQQ",
+          "price": 633.93,
+          "chg_pct": -0.65
+        },
+        {
+          "sym": "SMH",
+          "price": 422.46,
+          "chg_pct": -1.01
+        },
+        {
+          "sym": "AMD",
+          "price": 406.03,
+          "chg_pct": -1.75
+        },
+        {
+          "sym": "AVGO",
+          "price": 300.86,
+          "chg_pct": -0.07
+        },
+        {
+          "sym": "TSM",
+          "price": 342.34,
+          "chg_pct": -1.96
+        },
+        {
+          "sym": "^VIX",
+          "price": 28.29,
+          "chg_pct": 7.32
+        }
+      ],
+      "movers": "The VIX (+7.32%) and NVDA (-3.91%) are the largest moves. Losses narrowed sharply through the day, a recovery rather than a confirmed reversal.",
+      "news": [],
+      "watch_next": "US markets are closed Thursday for Thanksgiving, with an early close Friday, so the next full session is Monday. Watch whether NVDA holds 150 and SMH 420, whether the VIX stays below 30, and for a trusted, dated explanation of this week's decline. Prices come from a delayed free feed that hit a rate-limit warning (HTTP 429) and should be rechecked against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-25T21:40:35+00:00"
     }
   ],
   "calls": [
