@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T15:40:34+00:00",
+  "updated": "2026-11-25T18:41:03+00:00",
   "entries": [
     {
       "session": "close",
@@ -2726,6 +2726,57 @@
       "watch_next": "A trusted, dated explanation for today's decline (searches returned only older articles); whether the VIX stays above 30 into the close; whether SPY holds the 700 level; the market is closed tomorrow for Thanksgiving, so today's close carries into a long weekend. Prices come from a delayed free feed that hit a rate-limit warning (HTTP 429) and should be rechecked against a primary source.",
       "desk_call": null,
       "at": "2026-11-25T15:40:34+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "US equities and chip stocks stayed weak at midday but recovered part of the morning's losses. SPY was 714.80 (-0.55%) and QQQ 629.23 (-1.39%), while SMH was 414.46 (-2.88%). NVDA was 147.17 (-5.28%), AMD 396.63 (-4.03%), AVGO 291.84 (-3.07%) and TSM 337.83 (-3.26%). The VIX was 28.56 (+8.35%), below the roughly 34 reading logged at the open session but still elevated. No dated trusted-source explanation for today's move was found, so no cause is asserted.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 147.17,
+          "chg_pct": -5.28
+        },
+        {
+          "sym": "SPY",
+          "price": 714.8,
+          "chg_pct": -0.55
+        },
+        {
+          "sym": "QQQ",
+          "price": 629.23,
+          "chg_pct": -1.39
+        },
+        {
+          "sym": "SMH",
+          "price": 414.46,
+          "chg_pct": -2.88
+        },
+        {
+          "sym": "AMD",
+          "price": 396.63,
+          "chg_pct": -4.03
+        },
+        {
+          "sym": "AVGO",
+          "price": 291.84,
+          "chg_pct": -3.07
+        },
+        {
+          "sym": "TSM",
+          "price": 337.83,
+          "chg_pct": -3.26
+        },
+        {
+          "sym": "^VIX",
+          "price": 28.56,
+          "chg_pct": 8.35
+        }
+      ],
+      "movers": "NVDA (-5.28%) and AMD (-4.03%) were the largest decliners, and the VIX rose 8.35%. Losses are noticeably smaller than at the open session, a partial recovery rather than a confirmed reversal.",
+      "news": [],
+      "watch_next": "Whether the VIX holds below 30 and chip stocks hold their midday levels into the close; the US market is closed Thursday for Thanksgiving, so the close carries into a long weekend; a trusted, dated explanation for the decline. Prices come from a delayed free feed and should be rechecked against a primary source.",
+      "desk_call": null,
+      "at": "2026-11-25T18:41:03+00:00"
     }
   ],
   "calls": [
