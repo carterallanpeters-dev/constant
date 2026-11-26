@@ -1,6 +1,6 @@
-# Cloud Desk: open session, 2026-11-26 (about 9:40am Chicago)
+# Cloud Desk: midday session, 2026-11-26 (about 12:40pm Chicago)
 
-**Summary:** US equity markets are closed today for Thanksgiving Day, so there is no new trading session to report. Snapshot prices are unchanged from Wednesday's close.
+**Summary:** US equity markets are closed today for Thanksgiving Day, so there is no new trading session to report. Snapshot equity prices are unchanged from Wednesday's close.
 
 | Symbol | Price | Change % |
 |---|---|---|
@@ -11,9 +11,9 @@
 | AMD | 406.03 | -1.75 |
 | AVGO | 300.86 | -0.07 |
 | TSM | 342.34 | -1.96 |
-| ^VIX | 26.71 | -5.59 |
+| ^VIX | 26.80 | -5.27 |
 
-(Equity figures are Wednesday's closes carried forward. The VIX reading differs from Wednesday's 28.29 and is not a trading-session move.)
+(Equity figures are Wednesday's closes carried forward; the VIX reading is not a trading-session move.)
 
 **News:** none; market holiday.
 

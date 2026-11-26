@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:41:04+00:00",
+  "updated": "2026-11-26T18:40:46+00:00",
   "entries": [
     {
       "session": "close",
@@ -2879,6 +2879,57 @@
       "watch_next": "Markets reopen Friday, November 27 with an early close; the next full session is Monday, November 30. Watch whether NVDA holds 150 and SMH 420, and whether the VIX stays below 30.",
       "desk_call": null,
       "at": "2026-11-26T15:41:04+00:00"
+    },
+    {
+      "session": "midday",
+      "summary": "US equity markets are closed on Thursday, November 26, 2026 for Thanksgiving Day, so there is no new trading session to report and no desk call this run. Snapshot equity prices are unchanged from Wednesday's close (NVDA 149.30, SPY 716.70, QQQ 633.93, SMH 422.46).",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 149.3,
+          "chg_pct": -3.91
+        },
+        {
+          "sym": "SPY",
+          "price": 716.7,
+          "chg_pct": -0.29
+        },
+        {
+          "sym": "QQQ",
+          "price": 633.93,
+          "chg_pct": -0.65
+        },
+        {
+          "sym": "SMH",
+          "price": 422.46,
+          "chg_pct": -1.01
+        },
+        {
+          "sym": "AMD",
+          "price": 406.03,
+          "chg_pct": -1.75
+        },
+        {
+          "sym": "AVGO",
+          "price": 300.86,
+          "chg_pct": -0.07
+        },
+        {
+          "sym": "TSM",
+          "price": 342.34,
+          "chg_pct": -1.96
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.8,
+          "chg_pct": -5.27
+        }
+      ],
+      "movers": "Market closed for the holiday; equity figures are Wednesday's closes carried forward. The VIX reading of 26.80 differs from Wednesday's 28.29 and is not a trading-session move.",
+      "news": [],
+      "watch_next": "Markets reopen Friday, November 27 with an early close; the next full session is Monday, November 30. Watch whether NVDA holds 150, SMH 420 and the VIX stays below 30.",
+      "desk_call": null,
+      "at": "2026-11-26T18:40:46+00:00"
     }
   ],
   "calls": [
