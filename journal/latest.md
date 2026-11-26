@@ -1,6 +1,6 @@
-# Cloud Desk: close session, 2026-11-25 (about 3:40pm Chicago)
+# Cloud Desk: open session, 2026-11-26 (about 9:40am Chicago)
 
-**Summary:** A sizable recovery from the morning lows ahead of the Thanksgiving closure. NVDA 149.30 (-3.91%) vs 142.85 at the open session; SMH 422.46 (-1.01%) vs 398.55; SPY 716.70 (-0.29%) vs -2.64% at the open; QQQ 633.93 (-0.65%) vs -4.17%. VIX 28.29 (+7.32%), down from 34.05. No dated trusted-source report for today was found, so no cause is asserted.
+**Summary:** US equity markets are closed today for Thanksgiving Day, so there is no new trading session to report. Snapshot prices are unchanged from Wednesday's close.
 
 | Symbol | Price | Change % |
 |---|---|---|
@@ -11,12 +11,14 @@
 | AMD | 406.03 | -1.75 |
 | AVGO | 300.86 | -0.07 |
 | TSM | 342.34 | -1.96 |
-| ^VIX | 28.29 | +7.32 |
+| ^VIX | 26.71 | -5.59 |
 
-**News:** none from a trusted source dated today.
+(Equity figures are Wednesday's closes carried forward. The VIX reading differs from Wednesday's 28.29 and is not a trading-session move.)
 
-**Desk call:** none; the evidence does not support one.
+**News:** none; market holiday.
+
+**Desk call:** none (market closed).
 
 **Lessons:** no calls needed lessons this run.
 
-**Watch next:** Markets closed Thursday (Thanksgiving), early close Friday. Watch NVDA 150, SMH 420, VIX 30. Data is a delayed free feed (HTTP 429 warning).
+**Watch next:** Markets reopen Friday, Nov 27 with an early close; next full session is Monday, Nov 30. Watch NVDA 150, SMH 420, VIX 30.

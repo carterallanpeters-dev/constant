@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T21:40:35+00:00",
+  "updated": "2026-11-26T15:41:04+00:00",
   "entries": [
     {
       "session": "close",
@@ -2828,6 +2828,57 @@
       "watch_next": "US markets are closed Thursday for Thanksgiving, with an early close Friday, so the next full session is Monday. Watch whether NVDA holds 150 and SMH 420, whether the VIX stays below 30, and for a trusted, dated explanation of this week's decline. Prices come from a delayed free feed that hit a rate-limit warning (HTTP 429) and should be rechecked against a primary source.",
       "desk_call": null,
       "at": "2026-11-25T21:40:35+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "US equity markets are closed on Thursday, November 26, 2026 for Thanksgiving Day, so there is no new trading session to report and no desk call this run. The snapshot prices are unchanged from Wednesday's close (NVDA 149.30, SPY 716.70, QQQ 633.93, SMH 422.46).",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 149.3,
+          "chg_pct": -3.91
+        },
+        {
+          "sym": "SPY",
+          "price": 716.7,
+          "chg_pct": -0.29
+        },
+        {
+          "sym": "QQQ",
+          "price": 633.93,
+          "chg_pct": -0.65
+        },
+        {
+          "sym": "SMH",
+          "price": 422.46,
+          "chg_pct": -1.01
+        },
+        {
+          "sym": "AMD",
+          "price": 406.03,
+          "chg_pct": -1.75
+        },
+        {
+          "sym": "AVGO",
+          "price": 300.86,
+          "chg_pct": -0.07
+        },
+        {
+          "sym": "TSM",
+          "price": 342.34,
+          "chg_pct": -1.96
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.71,
+          "chg_pct": -5.59
+        }
+      ],
+      "movers": "Market closed for the holiday; equity figures are Wednesday's closing values carried forward. The VIX reading of 26.71 differs from Wednesday's 28.29 and should not be treated as a trading-session move.",
+      "news": [],
+      "watch_next": "Markets reopen Friday, November 27 with an early close; the next full session is Monday, November 30. Watch whether NVDA holds 150 and SMH 420, and whether the VIX stays below 30.",
+      "desk_call": null,
+      "at": "2026-11-26T15:41:04+00:00"
     }
   ],
   "calls": [
