@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:41:23+00:00",
+  "updated": "2026-11-27T21:40:46+00:00",
   "entries": [
     {
       "session": "close",
@@ -3105,6 +3105,63 @@
       "watch_next": "Close at 1 p.m. ET: whether SPY holds above 725 and SMH above 435, and whether NVDA's lag versus SMH persists. Broadcom reports earnings on December 9 (per search results, not independently confirmed). Next full session is Monday, November 30; VIX above 30 would signal renewed stress.",
       "desk_call": null,
       "at": "2026-11-27T18:41:23+00:00"
+    },
+    {
+      "session": "close",
+      "summary": "US markets closed early at 1 p.m. ET after a shortened post-Thanksgiving session, and the 21:40 UTC snapshot matches the final prices from the midday run. SPY finished at 728.32 (+1.62%), QQQ at 650.99 (+2.69%) and SMH at 440.06 (+4.17%), with semiconductors leading. AMD rose 4.56% to 424.54, AVGO 3.82% to 312.34 and TSM 3.21% to 353.34. NVDA lagged at 150.49 (+0.80%). The VIX fell 11.16% to 23.81 from Wednesday's close. Percent changes are measured from Wednesday's close because Thursday was a holiday.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 150.49,
+          "chg_pct": 0.8
+        },
+        {
+          "sym": "SPY",
+          "price": 728.32,
+          "chg_pct": 1.62
+        },
+        {
+          "sym": "QQQ",
+          "price": 650.99,
+          "chg_pct": 2.69
+        },
+        {
+          "sym": "SMH",
+          "price": 440.06,
+          "chg_pct": 4.17
+        },
+        {
+          "sym": "AMD",
+          "price": 424.54,
+          "chg_pct": 4.56
+        },
+        {
+          "sym": "AVGO",
+          "price": 312.34,
+          "chg_pct": 3.82
+        },
+        {
+          "sym": "TSM",
+          "price": 353.34,
+          "chg_pct": 3.21
+        },
+        {
+          "sym": "^VIX",
+          "price": 23.81,
+          "chg_pct": -11.16
+        }
+      ],
+      "movers": "AMD (+4.56%) and SMH (+4.17%) led, with AVGO and TSM also strong. NVDA (+0.80%) again lagged the semiconductor group. A search for a Friday-specific market wrap returned only Wednesday coverage, so the desk does not assign a verified cause to today's rally.",
+      "news": [
+        {
+          "title": "Tech stocks sink but close well off the lows (Nov 25 context; not a Nov 27 wrap)",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        }
+      ],
+      "watch_next": "Next full session is Monday, November 30. Watch whether SPY holds above 725 and SMH above 435, whether NVDA's lag versus SMH persists, and whether the VIX stays below 30. Broadcom earnings are reported for December 9 (from search results, not independently confirmed).",
+      "desk_call": null,
+      "at": "2026-11-27T21:40:46+00:00"
     }
   ],
   "calls": [
