@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:40:37+00:00",
+  "updated": "2026-11-27T15:40:40+00:00",
   "entries": [
     {
       "session": "close",
@@ -2981,6 +2981,73 @@
       "watch_next": "Markets reopen Friday, November 27 with an early close; the next full session is Monday, November 30. Watch whether NVDA holds 150, SMH 420 and the VIX stays below 30.",
       "desk_call": null,
       "at": "2026-11-26T21:40:37+00:00"
+    },
+    {
+      "session": "open",
+      "summary": "US stocks rebounded in the first minutes of the shortened post-Thanksgiving session (market closes at 1 p.m. ET). Per the 15:40 UTC snapshot, SPY was 725.18 (+1.18%), QQQ 645.20 (+1.78%) and SMH 432.15 (+2.29%), with chips leading. AVGO gained 3.50% to 311.38, TSM 2.45% to 350.74 and AMD 2.44% to 415.92. NVDA lagged at 147.90 (-0.93%), and the VIX eased 2.05% to 26.25. CNBC attributes the move to a tech rally after a volatile week, and notes the S&P 500 remains in a correction from its October high.",
+      "watchlist": [
+        {
+          "sym": "NVDA",
+          "price": 147.9,
+          "chg_pct": -0.93
+        },
+        {
+          "sym": "SPY",
+          "price": 725.18,
+          "chg_pct": 1.18
+        },
+        {
+          "sym": "QQQ",
+          "price": 645.2,
+          "chg_pct": 1.78
+        },
+        {
+          "sym": "SMH",
+          "price": 432.15,
+          "chg_pct": 2.29
+        },
+        {
+          "sym": "AMD",
+          "price": 415.92,
+          "chg_pct": 2.44
+        },
+        {
+          "sym": "AVGO",
+          "price": 311.38,
+          "chg_pct": 3.5
+        },
+        {
+          "sym": "TSM",
+          "price": 350.74,
+          "chg_pct": 2.45
+        },
+        {
+          "sym": "^VIX",
+          "price": 26.25,
+          "chg_pct": -2.05
+        }
+      ],
+      "movers": "AVGO (+3.50%) led the watchlist, followed by TSM and AMD (about +2.4% each). NVDA was the only watchlist equity down (-0.93%), lagging the rest of the semiconductor group.",
+      "news": [
+        {
+          "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+        },
+        {
+          "title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday"
+        },
+        {
+          "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+        }
+      ],
+      "watch_next": "Close at 1 p.m. ET today: whether SPY holds above 725 and whether NVDA's lag versus SMH persists. The next full session is Monday, November 30. VIX above 30 would signal renewed stress.",
+      "desk_call": null,
+      "at": "2026-11-27T15:40:40+00:00"
     }
   ],
   "calls": [
